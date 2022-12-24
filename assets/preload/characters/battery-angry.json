@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "battery left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "battery idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "battery right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "battery up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				11
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "battery hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "battery down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/battery_night",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "battery",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		255,
+		212
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

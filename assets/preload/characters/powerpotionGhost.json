@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				172,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "powerPotionLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "powerPotionDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "powerPotionRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "powerPotionIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "powerPotionUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "powerPotionMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "powerPotionMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "powerPotionMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "powerPotionMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fadeIn",
+			"loop": false,
+			"name": "powerPotionFadeIn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PowerPotionGhost",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monika",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		86,
+		229
+	],
+	"camera_position": [
+		-20,
+		-75
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

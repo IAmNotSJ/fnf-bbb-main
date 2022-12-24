@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Monika_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monika down0000" x="0" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0001" x="0" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0002" x="574" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0003" x="574" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0004" x="1148" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0005" x="1148" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0006" x="1148" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0007" x="1148" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0008" x="1148" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0009" x="0" y="0" width="571" height="842"/>
+	<SubTexture name="monika down0010" x="0" y="0" width="571" height="842"/>
+	<SubTexture name="monika down evil0000" x="1722" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0001" x="1722" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0002" x="2322" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0003" x="2322" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0004" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0005" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0006" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0007" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0008" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0009" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika down evil0010" x="2922" y="0" width="597" height="829"/>
+	<SubTexture name="monika hey0000" x="3522" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0001" x="3522" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0002" x="4261" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0003" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0004" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0005" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0006" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0007" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0008" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0009" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0010" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0011" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0012" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0013" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0014" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0015" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0016" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0017" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0018" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0019" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0020" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0021" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0022" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0023" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0024" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0025" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0026" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0027" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0028" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0029" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0030" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0031" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0032" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0033" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika hey0034" x="5000" y="0" width="736" height="957"/>
+	<SubTexture name="monika idle0000" x="5739" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0001" x="6223" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0002" x="6707" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0003" x="6707" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0004" x="7191" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0005" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0006" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0007" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0008" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0009" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0010" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0011" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0012" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika idle0013" x="7675" y="0" width="481" height="920"/>
+	<SubTexture name="monika left0000" x="0" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0001" x="0" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0002" x="603" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0003" x="603" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0004" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0005" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0006" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0007" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0008" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0009" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left0010" x="1206" y="960" width="600" height="891"/>
+	<SubTexture name="monika left evil0000" x="1809" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0001" x="1809" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0002" x="2424" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0003" x="2424" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0004" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0005" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0006" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0007" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0008" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0009" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika left evil0010" x="3039" y="960" width="612" height="864"/>
+	<SubTexture name="monika right0000" x="3654" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0001" x="3654" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0002" x="4229" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0003" x="4229" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0004" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0005" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0006" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0007" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0008" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0009" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right0010" x="4804" y="960" width="572" height="861"/>
+	<SubTexture name="monika right evil0000" x="5379" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0001" x="5379" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0002" x="6034" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0003" x="6034" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0004" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0005" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0006" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0007" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0008" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0009" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika right evil0010" x="6689" y="960" width="652" height="870"/>
+	<SubTexture name="monika up0000" x="7344" y="960" width="557" height="994"/>
+	<SubTexture name="monika up0001" x="7344" y="960" width="557" height="994"/>
+	<SubTexture name="monika up0002" x="0" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0003" x="0" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0004" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0005" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0006" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0007" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0008" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0009" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up0010" x="560" y="1957" width="557" height="994"/>
+	<SubTexture name="monika up evil0000" x="1120" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0001" x="1120" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0002" x="1663" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0003" x="1663" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0004" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0005" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0006" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0007" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0008" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0009" x="2206" y="1957" width="540" height="1016"/>
+	<SubTexture name="monika up evil0010" x="2206" y="1957" width="540" height="1016"/>
+</TextureAtlas>

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cwaf jr left0"
+		},
+		{
+			"offsets": [
+				-70,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cwaf jr down0"
+		},
+		{
+			"offsets": [
+				-38,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cwaf jr right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cwaf jr idle"
+		},
+		{
+			"offsets": [
+				28,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "cwaf jr left miss"
+		},
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "cwaf jr right miss"
+		},
+		{
+			"offsets": [
+				85,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "cwaf jr down miss"
+		},
+		{
+			"offsets": [
+				-58,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "cwaf jr up miss"
+		},
+		{
+			"offsets": [
+				-36,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "cwaf jr hey"
+		},
+		{
+			"offsets": [
+				-77,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cwaf jr up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				38
+			],
+			"anim": "electrocuted",
+			"fps": 24,
+			"name": "cwaf jr electrocuted",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cwaf_jr_night",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [
+		5,
+		240,
+		77
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

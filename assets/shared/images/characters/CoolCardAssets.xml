@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CoolCardAssets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CC Cheer0000" x="0" y="0" width="568" height="542"/>
+	<SubTexture name="CC Cheer0001" x="0" y="0" width="568" height="542"/>
+	<SubTexture name="CC Cheer0002" x="568" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0003" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0004" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0005" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0006" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0007" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0008" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0009" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0010" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0011" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0012" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0013" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0014" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0015" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0016" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0017" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0018" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0019" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Cheer0020" x="1132" y="0" width="564" height="535" frameX="-2" frameY="-7" frameWidth="568" frameHeight="542"/>
+	<SubTexture name="CC Dancing Beat0000" x="1696" y="0" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0001" x="2260" y="0" width="568" height="481"/>
+	<SubTexture name="CC Dancing Beat0002" x="2260" y="0" width="568" height="481"/>
+	<SubTexture name="CC Dancing Beat0003" x="2828" y="0" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0004" x="3392" y="0" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0005" x="3392" y="0" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0006" x="0" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0007" x="0" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0008" x="0" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0009" x="0" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0010" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0011" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0012" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0013" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0014" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0015" x="564" y="542" width="564" height="478" frameX="-2" frameY="-3" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0016" x="1128" y="542" width="568" height="476" frameX="0" frameY="-5" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0017" x="1696" y="542" width="568" height="480" frameX="0" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0018" x="2264" y="542" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0019" x="2828" y="542" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0020" x="2828" y="542" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0021" x="2828" y="542" width="564" height="479" frameX="-2" frameY="-2" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0022" x="3392" y="542" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0023" x="3392" y="542" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0024" x="3392" y="542" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0025" x="3392" y="542" width="564" height="480" frameX="-2" frameY="-1" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0026" x="0" y="1022" width="564" height="481" frameX="-2" frameY="0" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0027" x="0" y="1022" width="564" height="481" frameX="-2" frameY="0" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0028" x="0" y="1022" width="564" height="481" frameX="-2" frameY="0" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC Dancing Beat0029" x="0" y="1022" width="564" height="481" frameX="-2" frameY="0" frameWidth="568" frameHeight="481"/>
+	<SubTexture name="CC sad0000" x="564" y="1022" width="568" height="616"/>
+	<SubTexture name="CC sad0001" x="564" y="1022" width="568" height="616"/>
+	<SubTexture name="CC sad0002" x="1132" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0003" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0004" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0005" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0006" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0007" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0008" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0009" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0010" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0011" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0012" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0013" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0014" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0015" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0016" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0017" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0018" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0019" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0020" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0021" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0022" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0023" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0024" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0025" x="0" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0026" x="568" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0027" x="1132" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0028" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0029" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0030" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0031" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0032" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0033" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0034" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0035" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0036" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0037" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0038" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0039" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0040" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0041" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0042" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0043" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0044" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0045" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0046" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0047" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0048" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0049" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0050" x="568" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0051" x="568" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0052" x="1136" y="1638" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0053" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0054" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0055" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0056" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0057" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0058" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0059" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0060" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0061" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0062" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0063" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0064" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0065" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0066" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0067" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0068" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0069" x="2260" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0070" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0071" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0072" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0073" x="3388" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0074" x="1696" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0075" x="568" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0076" x="1700" y="1638" width="568" height="610" frameX="0" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0077" x="1136" y="1638" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0078" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+	<SubTexture name="CC sad0079" x="2824" y="1022" width="564" height="610" frameX="-2" frameY="-6" frameWidth="568" frameHeight="616"/>
+</TextureAtlas>

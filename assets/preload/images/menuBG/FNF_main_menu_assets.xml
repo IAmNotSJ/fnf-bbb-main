@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits normal0000" x="0" y="0" width="2150" height="120"/>
+	<SubTexture name="discord normal0000" x="0" y="123" width="2150" height="120"/>
+	<SubTexture name="freeplay normal0000" x="0" y="246" width="2150" height="120"/>
+	<SubTexture name="gallery normal0000" x="0" y="369" width="2150" height="120"/>
+	<SubTexture name="options normal0000" x="0" y="492" width="2150" height="120"/>
+	<SubTexture name="story normal0000" x="0" y="615" width="2140" height="121"/>
+</TextureAtlas>

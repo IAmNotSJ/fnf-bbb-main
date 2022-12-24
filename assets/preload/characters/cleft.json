@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cleftLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cleftIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cleftRight"
+		},
+		{
+			"offsets": [
+				0,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cleftUp"
+		},
+		{
+			"offsets": [
+				0,
+				265
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "cleftHey"
+		},
+		{
+			"offsets": [
+				0,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "cleftMiss"
+		},
+		{
+			"offsets": [
+				0,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "cleftMiss"
+		},
+		{
+			"offsets": [
+				0,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "cleftMiss"
+		},
+		{
+			"offsets": [
+				0,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "cleftMiss"
+		},
+		{
+			"offsets": [
+				0,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cleftDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cleft",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [
+		10,
+		255,
+		131
+	],
+	"camera_position": [
+		-55,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

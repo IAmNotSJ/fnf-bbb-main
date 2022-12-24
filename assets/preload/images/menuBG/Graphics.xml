@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Graphics.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cleft graphic0000" x="0" y="0" width="871" height="643"/>
+	<SubTexture name="credits graphic0000" x="874" y="0" width="730" height="846"/>
+	<SubTexture name="discord graphic0000" x="1607" y="0" width="629" height="760"/>
+	<SubTexture name="freeplay graphic0000" x="2239" y="0" width="547" height="796"/>
+	<SubTexture name="gallery graphic0000" x="0" y="849" width="709" height="823"/>
+	<SubTexture name="options graphic0000" x="712" y="849" width="693" height="799"/>
+	<SubTexture name="story graphic0000" x="1408" y="849" width="703" height="754"/>
+</TextureAtlas>

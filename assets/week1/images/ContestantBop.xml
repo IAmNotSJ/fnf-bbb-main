@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ContestantBop.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="contestantbop0000" x="3" y="3" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0001" x="3" y="3" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0002" x="2951" y="3" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0003" x="2951" y="3" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0004" x="3" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0005" x="3" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0006" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0007" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0008" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0009" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0010" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0011" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0012" x="2951" y="1446" width="2948" height="1443"/>
+	<SubTexture name="contestantbop0013" x="2951" y="1446" width="2948" height="1443"/>
+</TextureAtlas>

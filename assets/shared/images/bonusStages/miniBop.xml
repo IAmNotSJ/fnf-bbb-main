@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="miniBop.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="groupBop0000" x="0" y="0" width="1736" height="696"/>
+	<SubTexture name="groupBop0001" x="0" y="0" width="1736" height="696"/>
+	<SubTexture name="groupBop0002" x="1739" y="0" width="1736" height="696"/>
+	<SubTexture name="groupBop0003" x="1739" y="0" width="1736" height="696"/>
+	<SubTexture name="groupBop0004" x="0" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0005" x="0" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0006" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0007" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0008" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0009" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0010" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0011" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0012" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupBop0013" x="1739" y="699" width="1736" height="696"/>
+	<SubTexture name="groupHey0000" x="0" y="1398" width="1745" height="718"/>
+	<SubTexture name="groupHey0001" x="0" y="1398" width="1745" height="718"/>
+	<SubTexture name="groupHey0002" x="1748" y="1398" width="1745" height="718"/>
+	<SubTexture name="groupHey0003" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0004" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0005" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0006" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0007" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0008" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0009" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0010" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0011" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0012" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0013" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0014" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0015" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0016" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0017" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0018" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0019" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0020" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0021" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0022" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0023" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0024" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0025" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0026" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0027" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0028" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0029" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0030" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0031" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0032" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0033" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0034" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0035" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0036" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0037" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0038" x="0" y="2119" width="1745" height="718"/>
+	<SubTexture name="groupHey0039" x="0" y="2119" width="1745" height="718"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LIGHTNINGNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="202" height="202"/>
+	<SubTexture name="blue0001" x="205" y="0" width="202" height="202"/>
+	<SubTexture name="blue0002" x="410" y="0" width="202" height="202"/>
+	<SubTexture name="green0000" x="615" y="0" width="202" height="202"/>
+	<SubTexture name="green0001" x="820" y="0" width="202" height="202"/>
+	<SubTexture name="green0002" x="0" y="205" width="202" height="202"/>
+	<SubTexture name="purple0000" x="205" y="205" width="202" height="202"/>
+	<SubTexture name="purple0001" x="410" y="205" width="202" height="202"/>
+	<SubTexture name="purple0002" x="615" y="205" width="202" height="202"/>
+	<SubTexture name="red0000" x="820" y="205" width="201" height="201"/>
+	<SubTexture name="red0001" x="0" y="410" width="201" height="201"/>
+	<SubTexture name="red0002" x="204" y="410" width="201" height="201"/>
+</TextureAtlas>

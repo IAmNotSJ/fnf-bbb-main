@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loading.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="load0000" x="0" y="0" width="373" height="206"/>
+	<SubTexture name="load0001" x="376" y="0" width="373" height="206"/>
+	<SubTexture name="load0002" x="752" y="0" width="373" height="206"/>
+	<SubTexture name="load0003" x="1128" y="0" width="373" height="206"/>
+	<SubTexture name="load0004" x="1504" y="0" width="373" height="206"/>
+	<SubTexture name="load0005" x="0" y="209" width="373" height="206"/>
+	<SubTexture name="load0006" x="376" y="209" width="373" height="206"/>
+	<SubTexture name="load0007" x="752" y="209" width="373" height="206"/>
+	<SubTexture name="load0008" x="1128" y="209" width="373" height="206"/>
+	<SubTexture name="load0009" x="1504" y="209" width="373" height="206"/>
+	<SubTexture name="load0010" x="0" y="418" width="373" height="206"/>
+	<SubTexture name="load0011" x="376" y="418" width="373" height="206"/>
+	<SubTexture name="load0012" x="752" y="418" width="373" height="206"/>
+	<SubTexture name="load0013" x="1128" y="418" width="373" height="206"/>
+	<SubTexture name="load0014" x="1504" y="418" width="373" height="206"/>
+	<SubTexture name="load0015" x="0" y="627" width="373" height="206"/>
+	<SubTexture name="load0016" x="376" y="627" width="373" height="206"/>
+	<SubTexture name="load0017" x="752" y="627" width="373" height="206"/>
+	<SubTexture name="load0018" x="1128" y="627" width="373" height="206"/>
+	<SubTexture name="load0019" x="1504" y="627" width="373" height="206"/>
+	<SubTexture name="load0020" x="0" y="836" width="373" height="206"/>
+	<SubTexture name="load0021" x="376" y="836" width="373" height="206"/>
+	<SubTexture name="load0022" x="752" y="836" width="373" height="206"/>
+	<SubTexture name="load0023" x="1128" y="836" width="373" height="206"/>
+	<SubTexture name="load0024" x="1504" y="836" width="373" height="206"/>
+	<SubTexture name="load0025" x="0" y="1045" width="373" height="206"/>
+	<SubTexture name="load0026" x="376" y="1045" width="373" height="206"/>
+	<SubTexture name="load0027" x="752" y="1045" width="373" height="206"/>
+	<SubTexture name="load0028" x="1128" y="1045" width="373" height="206"/>
+	<SubTexture name="load0029" x="1504" y="1045" width="373" height="206"/>
+	<SubTexture name="load0030" x="0" y="1254" width="373" height="206"/>
+	<SubTexture name="load0031" x="376" y="1254" width="373" height="206"/>
+	<SubTexture name="load0032" x="752" y="1254" width="373" height="206"/>
+	<SubTexture name="load0033" x="1128" y="1254" width="373" height="206"/>
+	<SubTexture name="load0034" x="1504" y="1254" width="373" height="206"/>
+	<SubTexture name="load0035" x="0" y="1463" width="373" height="206"/>
+	<SubTexture name="load0036" x="376" y="1463" width="373" height="206"/>
+	<SubTexture name="load0037" x="752" y="1463" width="373" height="206"/>
+	<SubTexture name="load0038" x="1128" y="1463" width="373" height="206"/>
+	<SubTexture name="load0039" x="1504" y="1463" width="373" height="206"/>
+	<SubTexture name="load0040" x="0" y="1672" width="373" height="206"/>
+</TextureAtlas>

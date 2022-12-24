@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "btsLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "btsRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "btsDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "btsHey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "btsUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "btsIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bad_time_soul",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bts",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		48
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

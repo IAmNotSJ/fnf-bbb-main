@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jrPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jrFUCK0000" x="0" y="0" width="500" height="355"/>
+	<SubTexture name="jrDefault0000" x="503" y="0" width="500" height="355"/>
+	<SubTexture name="jrHappy0000" x="1006" y="0" width="500" height="355"/>
+	<SubTexture name="jrSurprised0000" x="1509" y="0" width="500" height="355"/>
+	<SubTexture name="jrAwkward0000" x="0" y="358" width="500" height="355"/>
+	<SubTexture name="jrAwkwardTalk0000" x="503" y="358" width="500" height="355"/>
+	<SubTexture name="jrSad0000" x="1006" y="358" width="500" height="355"/>
+	<SubTexture name="jrQuestion0000" x="1509" y="358" width="500" height="355"/>
+	<SubTexture name="jrDenial0000" x="0" y="716" width="500" height="355"/>
+	<SubTexture name="jrQuestion0000" x="503" y="716" width="500" height="355"/>
+	<SubTexture name="jrSweat0000" x="1006" y="716" width="500" height="355"/>
+	<SubTexture name="jrConfusedTalk0000" x="1509" y="716" width="500" height="355"/>
+	<SubTexture name="jrIntroduce0000" x="0" y="1074" width="500" height="355"/>
+	<SubTexture name="jrShocked0000" x="503" y="1074" width="500" height="355"/>
+</TextureAtlas>

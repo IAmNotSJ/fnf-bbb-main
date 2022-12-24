@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ckIdle"
+		},
+		{
+			"offsets": [
+				-39,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ckUp"
+		},
+		{
+			"offsets": [
+				-21,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ckHey"
+		},
+		{
+			"offsets": [
+				29,
+				-214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ckLeft"
+		},
+		{
+			"offsets": [
+				103,
+				-328
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ckRight"
+		},
+		{
+			"offsets": [
+				-47,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ckDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				255,
+				-329
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "ckAttack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cereal_killer",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cereal",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		148,
+		22
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

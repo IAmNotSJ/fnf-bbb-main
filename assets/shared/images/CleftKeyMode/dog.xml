@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dog.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RBounce0000" x="0" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0001" x="899" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0002" x="1798" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0003" x="1798" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0004" x="2697" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0005" x="2697" y="0" width="896" height="1002"/>
+	<SubTexture name="RBounce0006" x="0" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0007" x="0" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0008" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0009" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0010" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0011" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0012" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0013" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0014" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0015" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0016" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0017" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0018" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RBounce0019" x="899" y="1005" width="896" height="1002"/>
+	<SubTexture name="RTurn0000" x="1798" y="1005" width="1108" height="999"/>
+	<SubTexture name="RTurn0001" x="2909" y="1005" width="1108" height="999"/>
+	<SubTexture name="RTurn0002" x="0" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0003" x="0" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0004" x="1111" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0005" x="1111" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0006" x="2222" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0007" x="2222" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0008" x="2222" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0009" x="2222" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0010" x="2222" y="2010" width="1108" height="999"/>
+	<SubTexture name="RTurn0011" x="2222" y="2010" width="1108" height="999"/>
+</TextureAtlas>

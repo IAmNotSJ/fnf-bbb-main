@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf speaker.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf speaker0000" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0001" x="706" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0002" x="706" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0003" x="0" y="355" width="703" height="352"/>
+	<SubTexture name="gf speaker0004" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0005" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0006" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0007" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0008" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0009" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0010" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0011" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0012" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0013" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0014" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0015" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0016" x="706" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0017" x="706" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0018" x="0" y="355" width="703" height="352"/>
+	<SubTexture name="gf speaker0019" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0020" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0021" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0022" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0023" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0024" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0025" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0026" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0027" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0028" x="0" y="0" width="703" height="352"/>
+	<SubTexture name="gf speaker0029" x="0" y="0" width="703" height="352"/>
+</TextureAtlas>

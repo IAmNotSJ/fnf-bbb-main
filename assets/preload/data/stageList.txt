@@ -1,0 +1,13 @@
+stage
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
+tank
+monika
+tower
+tower-night
+mini

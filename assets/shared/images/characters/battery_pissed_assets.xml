@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BatteryStyle_pissed.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BatteryDown0000" x="0" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0001" x="0" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0002" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0003" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0004" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0005" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0006" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0007" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0008" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0009" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryDown0010" x="426" y="0" width="419" height="622"/>
+	<SubTexture name="BatteryIdle0000" x="852" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0001" x="852" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0002" x="1502" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0003" x="1502" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0004" x="2152" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0005" x="2802" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0006" x="3452" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0007" x="3452" y="0" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0008" x="0" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0009" x="0" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0010" x="650" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0011" x="650" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0012" x="1300" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryIdle0013" x="1300" y="690" width="643" height="683"/>
+	<SubTexture name="BatteryLeft0000" x="1950" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0001" x="1950" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0002" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0003" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0004" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0005" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0006" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0007" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0008" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0009" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryLeft0010" x="2691" y="690" width="734" height="679"/>
+	<SubTexture name="BatteryRight0000" x="3432" y="690" width="647" height="686"/>
+	<SubTexture name="BatteryRight0001" x="3432" y="690" width="647" height="686"/>
+	<SubTexture name="BatteryRight0002" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0003" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0004" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0005" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0006" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0007" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0008" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0009" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryRight0010" x="0" y="1383" width="647" height="686"/>
+	<SubTexture name="BatteryUp0000" x="654" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0001" x="654" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0002" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0003" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0004" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0005" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0006" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0007" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0008" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0009" x="1104" y="1383" width="443" height="707"/>
+	<SubTexture name="BatteryUp0010" x="1104" y="1383" width="443" height="707"/>
+</TextureAtlas>

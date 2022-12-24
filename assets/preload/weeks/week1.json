@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["8 Bit", "monika", [255, 13, 134]],
+		["Flying Battery Zone", "monika", [255, 13, 134]],
+		["Lore Keeper", "monika", [255, 13, 134]]
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "Hey Guys Battery Here",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode":false,
+	"hideFreeplay": false
+}

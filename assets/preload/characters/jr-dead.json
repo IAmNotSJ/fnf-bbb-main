@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				73
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "cwaf jr dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				23
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "cwaf jr dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				23
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "cwaf jr death confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cwaf_jr",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

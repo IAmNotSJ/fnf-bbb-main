@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "monika left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "monika down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "monika right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "monika idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-47
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "monika left evil",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				32
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "monika right evil",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-110
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "monika down evil",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "monika up evil",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				36
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "monika hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "monika up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monika",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "monika",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		86,
+		229
+	],
+	"camera_position": [
+		-20,
+		-75
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

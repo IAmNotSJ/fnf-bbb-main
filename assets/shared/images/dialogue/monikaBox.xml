@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monikaBox.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monikaBoxAppear0000" x="0" y="0" width="1218" height="354"/>
+	<SubTexture name="monikaBoxAppear0001" x="0" y="0" width="1218" height="354"/>
+	<SubTexture name="monikaBoxAppear0002" x="0" y="357" width="1218" height="354"/>
+	<SubTexture name="monikaBoxAppear0003" x="0" y="714" width="1218" height="354"/>
+	<SubTexture name="monikaBoxAppear0004" x="0" y="1071" width="1218" height="354"/>
+</TextureAtlas>

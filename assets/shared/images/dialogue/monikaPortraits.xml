@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monikaPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monikaFUCK0000" x="0" y="0" width="556" height="513"/>
+	<SubTexture name="monikaDefault0000" x="559" y="0" width="556" height="513"/>
+	<SubTexture name="monikaSad0000" x="1118" y="0" width="556" height="513"/>
+	<SubTexture name="monikaHappy0000" x="1677" y="0" width="556" height="513"/>
+	<SubTexture name="monikaIntroduce0000" x="2236" y="0" width="556" height="513"/>
+	<SubTexture name="monikaThink0000" x="2795" y="0" width="556" height="513"/>
+	<SubTexture name="monikaSadTalk0000" x="3354" y="0" width="556" height="513"/>
+	<SubTexture name="monikaEvilTalk0000" x="0" y="516" width="556" height="513"/>
+	<SubTexture name="monikaMic0000" x="559" y="516" width="556" height="513"/>
+	<SubTexture name="monikaDream0000" x="1118" y="516" width="556" height="513"/>
+	<SubTexture name="monikaPoint0000" x="1677" y="516" width="556" height="513"/>
+	<SubTexture name="monikaNudge0000" x="2236" y="516" width="556" height="513"/>
+	<SubTexture name="monikaAirQuote0000" x="2795" y="516" width="556" height="513"/>
+	<SubTexture name="monikaJazz0000" x="3354" y="516" width="556" height="513"/>
+	<SubTexture name="monikaWoe0000" x="0" y="1032" width="556" height="513"/>
+	<SubTexture name="monikaShock0000" x="559" y="1032" width="556" height="513"/>
+	<SubTexture name="monikaPointTwo0000" x="1118" y="1032" width="556" height="513"/>
+</TextureAtlas>

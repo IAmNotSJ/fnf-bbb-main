@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bile_splat.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bilesplat10000" x="0" y="0" width="309" height="308" frameX="-78" frameY="-30" frameWidth="463" frameHeight="486"/>
+	<SubTexture name="bilesplat10001" x="309" y="0" width="444" height="468" frameX="-14" frameY="-8" frameWidth="463" frameHeight="486"/>
+	<SubTexture name="bilesplat10002" x="753" y="0" width="458" height="482" frameX="-3" frameY="-2" frameWidth="463" frameHeight="486"/>
+	<SubTexture name="bilesplat10003" x="753" y="0" width="458" height="482" frameX="-3" frameY="-2" frameWidth="463" frameHeight="486"/>
+	<SubTexture name="bilesplat10004" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10005" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10006" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10007" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10008" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10009" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10010" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10011" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10012" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10013" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10014" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10015" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10016" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10017" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10018" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10019" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10020" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10021" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10022" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10023" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10024" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10025" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10026" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10027" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10028" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10029" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10030" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10031" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10032" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10033" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10034" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10035" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10036" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10037" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10038" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10039" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10040" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10041" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10042" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10043" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10044" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat10045" x="1211" y="0" width="463" height="486"/>
+	<SubTexture name="bilesplat20000" x="1674" y="0" width="201" height="156" frameX="-105" frameY="-89" frameWidth="409" frameHeight="325"/>
+	<SubTexture name="bilesplat20001" x="0" y="486" width="395" height="312" frameX="-4" frameY="-3" frameWidth="409" frameHeight="325"/>
+	<SubTexture name="bilesplat20002" x="395" y="486" width="403" height="320" frameX="-2" frameY="-1" frameWidth="409" frameHeight="325"/>
+	<SubTexture name="bilesplat20003" x="395" y="486" width="403" height="320" frameX="-2" frameY="-1" frameWidth="409" frameHeight="325"/>
+	<SubTexture name="bilesplat20004" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20005" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20006" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20007" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20008" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20009" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20010" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20011" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20012" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20013" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat20014" x="798" y="486" width="409" height="325"/>
+	<SubTexture name="bilesplat30000" x="1207" y="486" width="186" height="96" frameX="-148" frameY="-117" frameWidth="428" frameHeight="405"/>
+	<SubTexture name="bilesplat30001" x="1393" y="486" width="404" height="382" frameX="-11" frameY="-8" frameWidth="428" frameHeight="405"/>
+	<SubTexture name="bilesplat30002" x="0" y="868" width="420" height="397" frameX="-2" frameY="-2" frameWidth="428" frameHeight="405"/>
+	<SubTexture name="bilesplat30003" x="0" y="868" width="420" height="397" frameX="-2" frameY="-2" frameWidth="428" frameHeight="405"/>
+	<SubTexture name="bilesplat30004" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30005" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30006" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30007" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30008" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30009" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30010" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30011" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30012" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30013" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30014" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30015" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30016" x="420" y="868" width="428" height="405"/>
+	<SubTexture name="bilesplat30017" x="420" y="868" width="428" height="405"/>
+</TextureAtlas>

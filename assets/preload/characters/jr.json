@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "cwaf jr left0"
+		},
+		{
+			"offsets": [
+				-70,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "cwaf jr down0"
+		},
+		{
+			"offsets": [
+				-38,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "cwaf jr right0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "cwaf jr idle"
+		},
+		{
+			"offsets": [
+				28,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "cwaf jr left miss"
+		},
+		{
+			"offsets": [
+				-60,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "cwaf jr right miss"
+		},
+		{
+			"offsets": [
+				85,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "cwaf jr down miss"
+		},
+		{
+			"offsets": [
+				-58,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "cwaf jr up miss"
+		},
+		{
+			"offsets": [
+				-36,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "cwaf jr hey"
+		},
+		{
+			"offsets": [
+				-77,
+				99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "cwaf jr up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cwaf_jr",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [5, 240, 77],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

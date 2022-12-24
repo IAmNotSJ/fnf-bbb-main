@@ -1,0 +1,15 @@
+{
+	"songs": [
+		["Test", "monika", [255, 13, 134]]
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "How 2 Brawl",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

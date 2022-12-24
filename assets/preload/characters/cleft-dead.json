@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "cleftDead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "cleftDead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0,0],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "cleftDead",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cleft",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jr",
+	"flip_x": true,
+	"healthbar_colors": [
+		10,
+		255,
+		131
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

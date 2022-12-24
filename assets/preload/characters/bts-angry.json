@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				132,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "btsLeft"
+		},
+		{
+			"offsets": [
+				53,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "btsRight"
+		},
+		{
+			"offsets": [
+				38,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "btsDown"
+		},
+		{
+			"offsets": [
+				3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "btsHey"
+		},
+		{
+			"offsets": [
+				78,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "btsUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "btsIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				0
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "btsHurt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bad_time_soul_angry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bts",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		48
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

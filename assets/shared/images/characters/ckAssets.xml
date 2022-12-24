@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ckAssets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CKAttack0000" x="0" y="0" width="629" height="642" frameX="-47" frameY="-6" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0001" x="0" y="0" width="629" height="642" frameX="-47" frameY="-6" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0002" x="629" y="0" width="630" height="647" frameX="-61" frameY="0" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0003" x="629" y="0" width="630" height="647" frameX="-61" frameY="0" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0004" x="629" y="0" width="630" height="647" frameX="-61" frameY="0" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0005" x="1259" y="0" width="546" height="581" frameX="-32" frameY="-57" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0006" x="1259" y="0" width="546" height="581" frameX="-32" frameY="-57" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0007" x="1805" y="0" width="533" height="569" frameX="-26" frameY="-69" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0008" x="1805" y="0" width="533" height="569" frameX="-26" frameY="-69" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0009" x="2338" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0010" x="2338" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0011" x="2877" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0012" x="2877" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0013" x="3416" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0014" x="3416" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0015" x="3416" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0016" x="3416" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKAttack0017" x="3416" y="0" width="539" height="571" frameX="0" frameY="-68" frameWidth="691" frameHeight="648"/>
+	<SubTexture name="CKDeathConfirm0000" x="3955" y="0" width="682" height="551"/>
+	<SubTexture name="CKDeathConfirm0001" x="4637" y="0" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0002" x="5300" y="0" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0003" x="5963" y="0" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0004" x="6626" y="0" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0005" x="7289" y="0" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0006" x="0" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0007" x="663" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0008" x="1326" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0009" x="1989" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0010" x="2652" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0011" x="3315" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0012" x="3978" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0013" x="4641" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0014" x="5304" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0015" x="5967" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0016" x="6630" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0017" x="7293" y="647" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0018" x="0" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0019" x="663" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0020" x="1326" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0021" x="1989" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0022" x="2652" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0023" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0024" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0025" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0026" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0027" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0028" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0029" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0030" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0031" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0032" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathConfirm0033" x="3315" y="1198" width="663" height="551" frameX="-19" frameY="0" frameWidth="682" frameHeight="551"/>
+	<SubTexture name="CKDeathLoop0000" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0001" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0002" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0003" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0004" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0005" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0006" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0007" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0008" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0009" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0010" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0011" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0012" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0013" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0014" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0015" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0016" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0017" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0018" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0019" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0020" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0021" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0022" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0023" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0024" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0025" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0026" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0027" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0028" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0029" x="5304" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0030" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0031" x="3978" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0032" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDeathLoop0033" x="4641" y="1198" width="663" height="551"/>
+	<SubTexture name="CKDies0000" x="5967" y="1198" width="637" height="588" frameX="-19" frameY="-5" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0001" x="5967" y="1198" width="637" height="588" frameX="-19" frameY="-5" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0002" x="6604" y="1198" width="637" height="593" frameX="-23" frameY="0" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0003" x="6604" y="1198" width="637" height="593" frameX="-23" frameY="0" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0004" x="6604" y="1198" width="637" height="593" frameX="-23" frameY="0" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0005" x="7241" y="1198" width="692" height="571" frameX="-15" frameY="-36" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0006" x="7241" y="1198" width="692" height="571" frameX="-15" frameY="-36" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0007" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0008" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0009" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0010" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0011" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0012" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0013" x="0" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0014" x="686" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0015" x="686" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0016" x="686" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0017" x="1372" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0018" x="1372" y="1791" width="686" height="570" frameX="-20" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0019" x="2058" y="1791" width="693" height="570" frameX="-13" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0020" x="2058" y="1791" width="693" height="570" frameX="-13" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0021" x="2751" y="1791" width="706" height="570" frameX="0" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0022" x="2751" y="1791" width="706" height="570" frameX="0" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0023" x="3457" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0024" x="3457" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0025" x="4162" y="1791" width="706" height="570" frameX="0" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0026" x="4162" y="1791" width="706" height="570" frameX="0" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0027" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0028" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0029" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0030" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0031" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0032" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0033" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0034" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0035" x="4868" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0036" x="5573" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0037" x="6278" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0038" x="6983" y="1791" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0039" x="0" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0040" x="705" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0041" x="1410" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0042" x="2115" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0043" x="2820" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0044" x="3525" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0045" x="4230" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0046" x="4935" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0047" x="5640" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0048" x="6345" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0049" x="7050" y="2361" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0050" x="0" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0051" x="705" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0052" x="1410" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0053" x="2115" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0054" x="2820" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0055" x="3525" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0056" x="4230" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDies0057" x="4935" y="2931" width="705" height="570" frameX="-1" frameY="-42" frameWidth="707" frameHeight="612"/>
+	<SubTexture name="CKDown0000" x="5640" y="2931" width="648" height="544" frameX="0" frameY="-11" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0001" x="5640" y="2931" width="648" height="544" frameX="0" frameY="-11" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0002" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0003" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0004" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0005" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0006" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0007" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0008" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0009" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDown0010" x="6288" y="2931" width="633" height="556" frameX="-8" frameY="0" frameWidth="648" frameHeight="556"/>
+	<SubTexture name="CKDownMiss0000" x="6921" y="2931" width="648" height="544" frameX="-10" frameY="-9" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0001" x="0" y="3501" width="636" height="540" frameX="0" frameY="-13" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0002" x="0" y="3501" width="636" height="540" frameX="0" frameY="-13" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0003" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0004" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0005" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0006" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0007" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0008" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0009" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0010" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0011" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0012" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0013" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0014" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0015" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0016" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0017" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0018" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0019" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0020" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0021" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0022" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0023" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0024" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0025" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0026" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0027" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0028" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0029" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0030" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0031" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0032" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0033" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKDownMiss0034" x="636" y="3501" width="623" height="554" frameX="-6" frameY="0" frameWidth="658" frameHeight="554"/>
+	<SubTexture name="CKHealthUp0000" x="1259" y="3501" width="612" height="590" frameX="0" frameY="-18" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0001" x="1259" y="3501" width="612" height="590" frameX="0" frameY="-18" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0002" x="1871" y="3501" width="604" height="595" frameX="-2" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0003" x="1871" y="3501" width="604" height="595" frameX="-2" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0004" x="2475" y="3501" width="608" height="595" frameX="-1" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0005" x="2475" y="3501" width="608" height="595" frameX="-1" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0006" x="3083" y="3501" width="608" height="595" frameX="-1" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0007" x="3083" y="3501" width="608" height="595" frameX="-1" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0008" x="3083" y="3501" width="608" height="595" frameX="-1" frameY="-13" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0009" x="3691" y="3501" width="612" height="601" frameX="-7" frameY="-7" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0010" x="4303" y="3501" width="625" height="608" frameX="-10" frameY="0" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0011" x="4928" y="3501" width="698" height="596" frameX="-58" frameY="-12" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0012" x="4928" y="3501" width="698" height="596" frameX="-58" frameY="-12" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0013" x="4928" y="3501" width="698" height="596" frameX="-58" frameY="-12" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0014" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0015" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0016" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0017" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0018" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0019" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0020" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0021" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0022" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0023" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHealthUp0024" x="5626" y="3501" width="700" height="594" frameX="-54" frameY="-14" frameWidth="756" frameHeight="608"/>
+	<SubTexture name="CKHey0000" x="6326" y="3501" width="789" height="463"/>
+	<SubTexture name="CKHey0001" x="6326" y="3501" width="789" height="463"/>
+	<SubTexture name="CKHey0002" x="7115" y="3501" width="785" height="454" frameX="-3" frameY="-9" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0003" x="7115" y="3501" width="785" height="454" frameX="-3" frameY="-9" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0004" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0005" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0006" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0007" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0008" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKHey0009" x="0" y="4109" width="780" height="459" frameX="-3" frameY="-4" frameWidth="789" frameHeight="463"/>
+	<SubTexture name="CKIdle0000" x="780" y="4109" width="632" height="581" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0001" x="780" y="4109" width="632" height="581" frameX="0" frameY="0" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0002" x="1412" y="4109" width="630" height="581" frameX="-2" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0003" x="1412" y="4109" width="630" height="581" frameX="-2" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0004" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0005" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0006" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0007" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0008" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0009" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0010" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0011" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0012" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKIdle0013" x="2042" y="4109" width="627" height="581" frameX="-4" frameY="-1" frameWidth="632" frameHeight="582"/>
+	<SubTexture name="CKLeft0000" x="2669" y="4109" width="720" height="585" frameX="0" frameY="-14" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0001" x="2669" y="4109" width="720" height="585" frameX="0" frameY="-14" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0002" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0003" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0004" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0005" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0006" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0007" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0008" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeft0009" x="3389" y="4109" width="717" height="599" frameX="-3" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeftMiss0000" x="2669" y="4109" width="720" height="585" frameX="0" frameY="0" frameWidth="720" frameHeight="599"/>
+	<SubTexture name="CKLeftMiss0001" x="4106" y="4109" width="701" height="572" frameX="-25" frameY="-13" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0002" x="4106" y="4109" width="701" height="572" frameX="-25" frameY="-13" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0003" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0004" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0005" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0006" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0007" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0008" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0009" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0010" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0011" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0012" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0013" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0014" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0015" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0016" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0017" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0018" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0019" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0020" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0021" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0022" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0023" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0024" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0025" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0026" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0027" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0028" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0029" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0030" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0031" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0032" x="4807" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0033" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKLeftMiss0034" x="5510" y="4109" width="703" height="563" frameX="-28" frameY="-21" frameWidth="731" frameHeight="585"/>
+	<SubTexture name="CKRight0000" x="6213" y="4109" width="646" height="426" frameX="-1" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0001" x="6213" y="4109" width="646" height="426" frameX="-1" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0002" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0003" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0004" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0005" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0006" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0007" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0008" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0009" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRight0010" x="6859" y="4109" width="629" height="426" frameX="0" frameY="0" frameWidth="647" frameHeight="426"/>
+	<SubTexture name="CKRightMiss0000" x="7488" y="4109" width="646" height="426" frameX="0" frameY="-41" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0001" x="0" y="4708" width="647" height="466" frameX="-1" frameY="0" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0002" x="0" y="4708" width="647" height="466" frameX="-1" frameY="0" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0003" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0004" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0005" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0006" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0007" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0008" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0009" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0010" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0011" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0012" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0013" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0014" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0015" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0016" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0017" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0018" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0019" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0020" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0021" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0022" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0023" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0024" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0025" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0026" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0027" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0028" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0029" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0030" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0031" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0032" x="647" y="4708" width="645" height="461" frameX="-1" frameY="-5" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKRightMiss0033" x="1292" y="4708" width="645" height="439" frameX="-1" frameY="-27" frameWidth="648" frameHeight="467"/>
+	<SubTexture name="CKSad0000" x="1937" y="4708" width="632" height="580" frameX="-3" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0001" x="1937" y="4708" width="632" height="580" frameX="-3" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0002" x="2569" y="4708" width="621" height="580" frameX="0" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0003" x="2569" y="4708" width="621" height="580" frameX="0" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0004" x="3190" y="4708" width="625" height="581" frameX="-6" frameY="0" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0005" x="3190" y="4708" width="625" height="581" frameX="-6" frameY="0" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0006" x="2569" y="4708" width="621" height="580" frameX="0" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKSad0007" x="2569" y="4708" width="621" height="580" frameX="0" frameY="-1" frameWidth="635" frameHeight="581"/>
+	<SubTexture name="CKUp0000" x="3815" y="4708" width="645" height="763" frameX="0" frameY="-9" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0001" x="4460" y="4708" width="625" height="772" frameX="0" frameY="0" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0002" x="5085" y="4708" width="654" height="750" frameX="0" frameY="-20" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0003" x="5739" y="4708" width="676" height="727" frameX="0" frameY="-43" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0004" x="6415" y="4708" width="634" height="752" frameX="0" frameY="-18" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0005" x="7049" y="4708" width="613" height="760" frameX="0" frameY="-10" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0006" x="5085" y="4708" width="654" height="750" frameX="0" frameY="-20" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0007" x="5739" y="4708" width="676" height="727" frameX="0" frameY="-43" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0008" x="6415" y="4708" width="634" height="752" frameX="0" frameY="-18" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUp0009" x="7049" y="4708" width="613" height="760" frameX="0" frameY="-10" frameWidth="676" frameHeight="772"/>
+	<SubTexture name="CKUpMiss0000" x="0" y="5480" width="645" height="763" frameX="-11" frameY="0" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0001" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0002" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0003" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0004" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0005" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0006" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0007" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0008" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0009" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0010" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0011" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0012" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0013" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0014" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0015" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0016" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0017" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0018" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0019" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0020" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0021" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0022" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0023" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0024" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0025" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0026" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0027" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0028" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0029" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0030" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0031" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0032" x="1330" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0033" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+	<SubTexture name="CKUpMiss0034" x="645" y="5480" width="685" height="716" frameX="0" frameY="-48" frameWidth="685" frameHeight="764"/>
+</TextureAtlas>

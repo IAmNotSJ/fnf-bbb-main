@@ -1,0 +1,121 @@
+:sound:voice:jrHappy
+:text:Speed:0.1
+:jr:sweatIntroduce:
+:jr:confusedTalk:uh...
+:jr:unfocus:
+
+:text:Speed:0.04
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:happyIntroduce:Well hey there!
+:monika:jazz:Sorry for scaring you like that, I just HAD to meet you!
+:monika:introduce:My name's Monika! And what's yours?
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:text:autoSkip:0.72
+:jr:focus:
+:jr:introduce:Oh, well I'm CWAF Jr!
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:nudge:Just kidding! I know who you are jr!
+:monika:point:I've been a big fan of yours for a while now!
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:surprised:What?! Really?
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:dream:Yep! Going and finding a magical artifact? How could I not be impressed?
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:shocked:You know about the staff?
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:happy:Of course! What good adventurer doesn't?
+:monika:quote:"The staff that can create anything", doesn't it sound great?!
+:monika:point2:And I think you've good chance at finding it!
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:surprised:Woah? Are you serious?!
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:introduce:Yep, sure am!
+:monika:point:Well.. IF you know how to get past the...
+
+:text:Speed:0.1
+:sound:voice:monikaEvil
+:monika:evilTalk:defenses.
+:monika:unfocus:
+
+:text:Speed:0.04
+:sound:voice:jrHappy
+:jr:focus:
+:jr:shocked:The what?!
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:introduce:You know, Jr. I used to be an adventurer myself!
+:monika:woe:But alas, once I got to the staff...
+:monika:shock:Right as it was at the tip of my fingers...
+:monika:happy:I was stopped! By a large forcefield surrounding the tower where the staff was hidden!
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:shocked:Oh no!
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:shock:Yes! And I never got to it...
+:monika:point2:However, I know of a way to break the forcefield, so YOU can get to the staff!
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:happy:Wow! How do you do it?
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:evilTalk:Sound. It's broken by sound!
+:monika:mic:Say, have you ever tried singing before, Jr?
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:awkward: 
+:jr:confused:Singing?
+:jr:unfocus:
+
+:sound:voice:monikaHappy
+:monika:focus:
+:monika:happy:Yeah! You have to break the barrier somehow!
+:monika:mic:What do you say? Want to give it a try?
+:monika:unfocus:
+
+:sound:voice:jrHappy
+:jr:focus:
+:jr:question:Hmm...
+:jr:happy:Alright! I'll try!
+:jr:unfocus:
+
+:text:speed:0.1
+:sound:voice:monikaEvil
+:monika:focus:
+:monika:evilTalk:Great.

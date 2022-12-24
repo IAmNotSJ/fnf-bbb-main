@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SJAssets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SJDown0000" x="0" y="0" width="397" height="670" frameX="0" frameY="-6" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0001" x="0" y="0" width="397" height="670" frameX="0" frameY="-6" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0002" x="397" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0003" x="397" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0004" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0005" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0006" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0007" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0008" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0009" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJDown0010" x="779" y="0" width="382" height="677" frameX="-7" frameY="0" frameWidth="397" frameHeight="677"/>
+	<SubTexture name="SJIdle0000" x="1161" y="0" width="314" height="691" frameX="0" frameY="-3" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0001" x="1161" y="0" width="314" height="691" frameX="0" frameY="-3" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0002" x="1475" y="0" width="313" height="688" frameX="-14" frameY="-6" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0003" x="1475" y="0" width="313" height="688" frameX="-14" frameY="-6" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0004" x="1788" y="0" width="317" height="691" frameX="-14" frameY="-3" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0005" x="1788" y="0" width="317" height="691" frameX="-14" frameY="-3" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0006" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0007" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0008" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0009" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0010" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0011" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0012" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJIdle0013" x="2105" y="0" width="333" height="695" frameX="-14" frameY="0" frameWidth="347" frameHeight="695"/>
+	<SubTexture name="SJLeft0000" x="2438" y="0" width="358" height="695" frameX="0" frameY="0" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0001" x="2438" y="0" width="358" height="695" frameX="0" frameY="0" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0002" x="2796" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0003" x="2796" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0004" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0005" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0006" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0007" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0008" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0009" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJLeft0010" x="3157" y="0" width="361" height="685" frameX="0" frameY="-9" frameWidth="361" frameHeight="695"/>
+	<SubTexture name="SJRight0000" x="3518" y="0" width="346" height="695" frameX="0" frameY="0" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0001" x="3518" y="0" width="346" height="695" frameX="0" frameY="0" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0002" x="0" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0003" x="0" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0004" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0005" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0006" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0007" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0008" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0009" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJRight0010" x="343" y="695" width="343" height="688" frameX="-5" frameY="-7" frameWidth="348" frameHeight="695"/>
+	<SubTexture name="SJUp0000" x="686" y="695" width="345" height="705"/>
+	<SubTexture name="SJUp0001" x="686" y="695" width="345" height="705"/>
+	<SubTexture name="SJUp0002" x="1031" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0003" x="1031" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0004" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0005" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0006" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0007" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0008" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0009" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="SJUp0010" x="1368" y="695" width="337" height="694" frameX="-8" frameY="-11" frameWidth="345" frameHeight="705"/>
+</TextureAtlas>
