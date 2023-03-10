@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="run.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="btsIdleLegs0000" x="0" y="0" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0001" x="0" y="0" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0002" x="413" y="0" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0003" x="413" y="0" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0004" x="413" y="0" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0005" x="0" y="256" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0006" x="0" y="256" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0007" x="413" y="256" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0008" x="413" y="256" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0009" x="413" y="256" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0010" x="0" y="512" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0011" x="0" y="512" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0012" x="413" y="512" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0013" x="413" y="512" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0014" x="413" y="512" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0015" x="0" y="768" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0016" x="0" y="768" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0017" x="413" y="768" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0018" x="413" y="768" width="410" height="253"/>
+	<SubTexture name="btsIdleLegs0019" x="413" y="768" width="410" height="253"/>
+</TextureAtlas>

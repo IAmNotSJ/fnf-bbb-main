@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraitsThird.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coolcardSwag" x="0" y="0" width="556" height="414"/>
+	<SubTexture name="coolcardRomance" x="559" y="0" width="556" height="414"/>
+	<SubTexture name="cringersCheer" x="1118" y="0" width="556" height="414"/>
+</TextureAtlas>

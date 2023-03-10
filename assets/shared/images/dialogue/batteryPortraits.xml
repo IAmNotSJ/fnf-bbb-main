@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batteryPortraits.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batteryFUCK" x="0" y="0" width="479" height="395"/>
+	<SubTexture name="batteryDefault" x="482" y="0" width="479" height="395"/>
+	<SubTexture name="batteryConfused0" x="964" y="0" width="479" height="395"/>
+	<SubTexture name="batteryConfusedTalking" x="1446" y="0" width="479" height="395"/>
+	<SubTexture name="batterySympathetic0" x="0" y="398" width="479" height="395"/>
+	<SubTexture name="batterySympatheticTalk" x="482" y="398" width="479" height="395"/>
+	<SubTexture name="batteryBlush0" x="964" y="398" width="479" height="395"/>
+	<SubTexture name="batteryBlushTalk" x="1446" y="398" width="479" height="395"/>
+	<SubTexture name="batteryLook0" x="0" y="796" width="479" height="395"/>
+	<SubTexture name="batteryLookTalk" x="482" y="796" width="479" height="395"/>
+	<SubTexture name="batteryAnnoyed0" x="964" y="796" width="479" height="395"/>
+	<SubTexture name="batteryAnnoyedTalk" x="1446" y="796" width="479" height="395"/>
+	<SubTexture name="batteryAngry" x="0" y="1194" width="479" height="395"/>
+	<SubTexture name="batteryReallyAngry" x="482" y="1194" width="479" height="395"/>
+	<SubTexture name="batteryTired" x="964" y="1194" width="479" height="395"/>
+</TextureAtlas>

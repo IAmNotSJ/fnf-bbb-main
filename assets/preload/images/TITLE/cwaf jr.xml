@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cwaf jr.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cwaf jr idle0000" x="0" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0001" x="0" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0002" x="471" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0003" x="471" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0004" x="942" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0005" x="942" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0006" x="1413" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0007" x="1413" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0008" x="1884" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0009" x="1884" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0010" x="1884" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0011" x="1884" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0012" x="1884" y="0" width="468" height="437"/>
+	<SubTexture name="cwaf jr idle0013" x="1884" y="0" width="468" height="437"/>
+</TextureAtlas>

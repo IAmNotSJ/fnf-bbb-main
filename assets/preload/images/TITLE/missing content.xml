@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="missing content.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="missing content idle0000" x="0" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0001" x="0" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0002" x="287" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0003" x="287" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0004" x="574" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0005" x="574" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0006" x="861" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0007" x="861" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0008" x="1148" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0009" x="1148" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0010" x="1148" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0011" x="1148" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0012" x="1148" y="0" width="284" height="377"/>
+	<SubTexture name="missing content idle0013" x="1148" y="0" width="284" height="377"/>
+</TextureAtlas>

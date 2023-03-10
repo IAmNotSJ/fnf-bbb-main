@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cwaf_jr_dies.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cwaf jr dead loop0000" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0001" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0002" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0003" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0004" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0005" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0006" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0007" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0008" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0009" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0010" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0011" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0012" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0013" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0014" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0015" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0016" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0017" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0018" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0019" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0020" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0021" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0022" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0023" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0024" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0025" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0026" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0027" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0028" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0029" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0030" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0031" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0032" x="1916" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0033" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0034" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0035" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0036" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0037" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0038" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0039" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0040" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0041" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0042" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0043" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0044" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0045" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0046" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0047" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0048" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0049" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0050" x="1437" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0051" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0052" x="0" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0053" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0054" x="479" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0055" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr dead loop0056" x="958" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0000" x="2395" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0001" x="2874" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0002" x="3353" y="0" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0003" x="0" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0004" x="479" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0005" x="958" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0006" x="1437" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0007" x="1916" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0008" x="2395" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0009" x="2874" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0010" x="3353" y="434" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0011" x="0" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0012" x="479" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0013" x="958" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0014" x="1437" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0015" x="1916" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0016" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0017" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0018" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0019" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0020" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0021" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0022" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0023" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0024" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0025" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0026" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0027" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0028" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0029" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0030" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0031" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0032" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr death confirm0033" x="2395" y="868" width="476" height="431"/>
+	<SubTexture name="cwaf jr dies0000" x="2874" y="868" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0001" x="3354" y="868" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0002" x="0" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0003" x="480" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0004" x="960" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0005" x="1440" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0006" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0007" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0008" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0009" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0010" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0011" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0012" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0013" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0014" x="1920" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0015" x="2400" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0016" x="2400" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0017" x="2400" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0018" x="2880" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0019" x="2880" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0020" x="3360" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0021" x="3360" y="1357" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0022" x="0" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0023" x="0" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0024" x="480" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0025" x="960" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0026" x="960" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0027" x="1440" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0028" x="1440" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0029" x="1920" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0030" x="1920" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0031" x="2400" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0032" x="2400" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0033" x="2400" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0034" x="2880" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0035" x="3360" y="1846" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0036" x="0" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0037" x="480" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0038" x="960" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0039" x="1440" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0040" x="1920" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0041" x="2400" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0042" x="2880" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0043" x="3360" y="2335" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0044" x="0" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0045" x="480" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0046" x="960" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0047" x="1440" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0048" x="1920" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0049" x="2400" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0050" x="2880" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0051" x="3360" y="2824" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0052" x="0" y="3313" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0053" x="480" y="3313" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0054" x="960" y="3313" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0055" x="1440" y="3313" width="477" height="486"/>
+	<SubTexture name="cwaf jr dies0056" x="1440" y="3313" width="477" height="486"/>
+</TextureAtlas>

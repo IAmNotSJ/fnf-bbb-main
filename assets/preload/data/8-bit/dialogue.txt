@@ -1,0 +1,34 @@
+:sound:voice:monikaHappy
+:text:Speed:0.05
+:battery:intoScene:
+:battery:confused: ...
+:battery:confusedTalk: A singing competition?
+:battery:unfocus:
+
+:jr:intoScene:
+:jr:happy: Yeah! Come on, it'll be fun!
+:jr:unfocus:
+
+:battery:focus:
+:battery:nervous: I don't know...
+:battery:nervousTalk: I'm not really much of a singer..
+:battery:unfocus:
+
+:third:intoScene:
+:third:cool:Come on, I'm sure you'll be great.
+:third:coolRom:Besides, I've never heard you sing before, I can't say I'm not a little curious.
+:third:unfocus:
+
+:sound:musicStop:
+:battery:focus:
+:battery:blush:
+:sound:musicPlay:
+:battery:blushTalk: Well I-
+
+:third:reset:
+:third:focus:
+:third:cringers:Yeah Battery! Come on!
+:third:unfocus:
+
+:battery:look:
+:battery:lookTalk: Alright, I guess it wouldn't hurt to try!

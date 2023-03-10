@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cereal killer.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ck idle0000" x="0" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0001" x="0" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0002" x="569" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0003" x="569" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0004" x="1138" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0005" x="1138" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0006" x="1707" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0007" x="1707" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0008" x="2276" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0009" x="2276" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0010" x="2276" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0011" x="2276" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0012" x="2276" y="0" width="566" height="391"/>
+	<SubTexture name="ck idle0013" x="2276" y="0" width="566" height="391"/>
+</TextureAtlas>

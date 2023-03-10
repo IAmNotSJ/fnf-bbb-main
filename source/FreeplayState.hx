@@ -35,6 +35,7 @@ class FreeplayState extends MusicBeatState
 
 	var scoreBG:FlxSprite;
 	var scoreText:FlxText;
+	var selectedText:FlxText;
 	var diffText:FlxText;
 	var lerpScore:Int = 0;
 	var lerpRating:Float = 0;
@@ -114,6 +115,7 @@ class FreeplayState extends MusicBeatState
 			var songText:Alphabet = new Alphabet(0, (70 * i) + 30, songs[i].songName, true, false);
 			songText.isMenuItem = true;
 			songText.targetY = i;
+			songText.alpha = 0.1;
 			grpSongs.add(songText);
 
 			if (songText.width > 980)
@@ -143,6 +145,11 @@ class FreeplayState extends MusicBeatState
 		}
 		WeekData.setDirectoryFromWeek();
 
+		selectedText = new FlxText(0, 25, FlxG.width, "TROLOLO", 256);
+		selectedText.screenCenter(X);
+		selectedText.scale.set(2,2);
+		selectedText.setFormat(Paths.font("CookieRun Bold.ttf"), 32, FlxColor.WHITE, CENTER);
+
 		scoreText = new FlxText(FlxG.width * 0.7, 5, 0, "", 32);
 		scoreText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, RIGHT);
 
@@ -155,6 +162,7 @@ class FreeplayState extends MusicBeatState
 		add(diffText);
 
 		add(scoreText);
+		add(selectedText);
 
 		if(curSelected >= songs.length) curSelected = 0;
 		bg.color = songs[curSelected].color;
@@ -441,6 +449,8 @@ class FreeplayState extends MusicBeatState
 			curSelected = songs.length - 1;
 		if (curSelected >= songs.length)
 			curSelected = 0;
+
+		selectedText.text = songs[curSelected].songName;
 			
 		var newColor:Int = songs[curSelected].color;
 		if(newColor != intendedColor) {

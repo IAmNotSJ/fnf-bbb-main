@@ -22,10 +22,14 @@ class CharacterSetting
 
 class MenuCharacter extends FlxSprite
 {
+	//x and y values need to be the opposite charge for some reason idk why 
+	//reminder future sarah
+	//like x and y should be -x and -y
 	private static var settings:Map<String, CharacterSetting> = [
 		'bf' => new CharacterSetting(0, -20, 1, true),
 		'jr' => new CharacterSetting(-8.3, -367.1, 1, false),
-		'monika' => new CharacterSetting(-309.1, -75.6, 1, false)
+		'monika' => new CharacterSetting(-309.1, -75.6, 1, false),
+		'battery' => new CharacterSetting(-338, -155, 1, false)
 	];
 
 	private var flipped:Bool = false;
@@ -49,6 +53,8 @@ class MenuCharacter extends FlxSprite
 		animation.addByPrefix('jrConfirm', 'jr hey', 24, false);
 		animation.addByPrefix('monika', 'monika bop', 24, false);
 		animation.addByPrefix('monikaConfirm', 'monika hey', 24, false);
+		animation.addByPrefix('battery', 'battery bop', 24, false);
+		animation.addByPrefix('batteryConfirm', 'battery hey', 24, false);
 
 		setGraphicSize(Std.int(width * scale));
 		updateHitbox();
@@ -89,7 +95,7 @@ class MenuCharacter extends FlxSprite
 				animation.play(character + "-right", true);
 		} else {
 			//no spooky nor girlfriend so we do da normal animation
-			if (animation.name == "bfConfirm" || animation.name == "jrConfirm" || animation.name == "monikaConfirm")
+			if (animation.name == "bfConfirm" || animation.name == "jrConfirm" || animation.name == "monikaConfirm" || animation.name == "batteryConfirm")
 				return;
 			animation.play(character, true);
 		}

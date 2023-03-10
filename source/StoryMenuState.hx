@@ -68,7 +68,7 @@ class StoryMenuState extends MusicBeatState
 
 	var weekCharacters:Array<Dynamic> = [
 		['jr', 'monika'],
-		['jr', ''],
+		['jr', 'battery'],
 		['', ''],
 		['', ''],
 	];
@@ -313,6 +313,9 @@ class StoryMenuState extends MusicBeatState
 					case "monika":
 						grpWeekCharacters.members[1].x -= 2;
 						grpWeekCharacters.members[1].y -= 6;			
+					case "battery":
+						grpWeekCharacters.members[1].x -= 4;
+						grpWeekCharacters.members[1].y -= 1;	
 				}
 
 				switch (weekCharacters[curWeek][0])

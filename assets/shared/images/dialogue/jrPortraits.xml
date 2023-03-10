@@ -1,19 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="jrPortraits.png">
-	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="jrFUCK0000" x="0" y="0" width="500" height="355"/>
-	<SubTexture name="jrDefault0000" x="503" y="0" width="500" height="355"/>
-	<SubTexture name="jrHappy0000" x="1006" y="0" width="500" height="355"/>
-	<SubTexture name="jrSurprised0000" x="1509" y="0" width="500" height="355"/>
-	<SubTexture name="jrAwkward0000" x="0" y="358" width="500" height="355"/>
-	<SubTexture name="jrAwkwardTalk0000" x="503" y="358" width="500" height="355"/>
-	<SubTexture name="jrSad0000" x="1006" y="358" width="500" height="355"/>
-	<SubTexture name="jrQuestion0000" x="1509" y="358" width="500" height="355"/>
-	<SubTexture name="jrDenial0000" x="0" y="716" width="500" height="355"/>
-	<SubTexture name="jrQuestion0000" x="503" y="716" width="500" height="355"/>
-	<SubTexture name="jrSweat0000" x="1006" y="716" width="500" height="355"/>
-	<SubTexture name="jrConfusedTalk0000" x="1509" y="716" width="500" height="355"/>
-	<SubTexture name="jrIntroduce0000" x="0" y="1074" width="500" height="355"/>
-	<SubTexture name="jrShocked0000" x="503" y="1074" width="500" height="355"/>
+	<SubTexture name="jrFUCK" x="0" y="0" width="500" height="355"/>
+	<SubTexture name="jrDefault" x="503" y="0" width="500" height="355"/>
+	<SubTexture name="jrHappy" x="1006" y="0" width="500" height="355"/>
+	<SubTexture name="jrSurprised" x="1509" y="0" width="500" height="355"/>
+	<SubTexture name="jrSweat" x="0" y="358" width="500" height="355"/>
+	<SubTexture name="jrAwkwardTalk" x="503" y="358" width="500" height="355"/>
+	<SubTexture name="jrSad" x="1006" y="358" width="500" height="355"/>
+	<SubTexture name="jrQuestion" x="1509" y="358" width="500" height="355"/>
+	<SubTexture name="jrDenial" x="0" y="716" width="500" height="355"/>
+	<SubTexture name="jrConfused0" x="503" y="716" width="500" height="355"/>
+	<SubTexture name="jrHurt" x="1006" y="716" width="500" height="355"/>
+	<SubTexture name="jrConfusedTalk" x="1509" y="716" width="500" height="355"/>
+	<SubTexture name="jrIntroduce" x="0" y="1074" width="500" height="355"/>
+	<SubTexture name="jrShocked" x="503" y="1074" width="500" height="355"/>
+	<SubTexture name="jrBoastful0" x="1006" y="1074" width="500" height="355"/>
+	<SubTexture name="jrBoastfulTalk" x="1509" y="1074" width="500" height="355"/>
+	<SubTexture name="jrLook" x="0" y="1432" width="500" height="355"/>
+	<SubTexture name="jrSympathetic" x="503" y="1432" width="500" height="355"/>
 </TextureAtlas>

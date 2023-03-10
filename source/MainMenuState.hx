@@ -74,6 +74,8 @@ class MainMenuState extends MusicBeatState
 		#end
 		debugKeys = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 
+		FlxG.mouse.visible = true;
+
 		camGame = new FlxCamera();
 		camAchievement = new FlxCamera();
 		camAchievement.bgColor.alpha = 0;
@@ -98,7 +100,10 @@ class MainMenuState extends MusicBeatState
 		bg.antialiasing = FlxG.save.data.antialising;
 		add(bg);
 
-		backdrop = new FlxBackdrop(Paths.image('menuBG/circles'));
+		if (!ClientPrefs.cleftKey)
+			backdrop = new FlxBackdrop(Paths.image('menuBG/circles'));
+		else
+			backdrop = new FlxBackdrop(Paths.image('menuBG/circles-cleft'));
 		backdrop.velocity.set(40, -50);
 		backdrop.screenCenter();
 		backdrop.antialiasing = FlxG.save.data.antialising;
@@ -107,10 +112,8 @@ class MainMenuState extends MusicBeatState
 		border = new FlxSprite(-80).loadGraphic(Paths.image('menuBG/bordershit'));
 		border.scrollFactor.set();
 		border.setGraphicSize(Std.int(border.width * 1.1));
-		border.updateHitbox();
 		border.screenCenter();
 		border.antialiasing = true;
-		border.angle = 0;
 		add(border);
 
 		menugraphic = new FlxSprite(700);
@@ -322,7 +325,13 @@ class MainMenuState extends MusicBeatState
 		if (!selectedSomethin)
 		{
 			if (FlxG.keys.justPressed.F1)
-                FlxG.switchState(new ShopState());
+			{
+				if (!ClientPrefs.cleftKey)
+					FlxG.switchState(new ShopState());
+				if (ClientPrefs.cleftKey)
+					 FlxG.switchState(new CleftShop());	
+			}
+
 
 			if (controls.UI_UP_P)
 			{
@@ -356,6 +365,7 @@ class MainMenuState extends MusicBeatState
 				else
 				{
 					selectedSomethin = true;
+					FlxG.mouse.visible = false;
 					FlxG.sound.play(Paths.sound('confirmMenu'));
 
 

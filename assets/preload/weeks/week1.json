@@ -1,8 +1,8 @@
 {
 	"songs": [
-		["8 Bit", "monika", [255, 13, 134]],
-		["Flying Battery Zone", "monika", [255, 13, 134]],
-		["Lore Keeper", "monika", [255, 13, 134]]
+		["8 Bit", "battery", [255, 13, 134]],
+		["Flying Battery Zone", "battery", [255, 13, 134]],
+		["Lore Keeper", "battery", [255, 13, 134]]
 	],
 
 	"weekBackground": "stage",

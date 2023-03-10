@@ -33,6 +33,8 @@ class DialogueBox extends FlxSpriteGroup
 
 	var cwafJr:FlxSprite;
 	var monika:FlxSprite;
+	var battery:FlxSprite;
+	var third:FlxSprite;
 
 	var handSelect:FlxSprite;
 	var bgFade:FlxSprite;
@@ -40,12 +42,19 @@ class DialogueBox extends FlxSpriteGroup
 	var textSpeed:Float = 0.04;
 	var curAnim:String = '';
 	var curPref:String = '';
+
+	var canContinue:Bool = true;
+	var inCard:Bool = false;
+
+	var card:FlxSprite;
 	
 	//me when i am a dumbass
 	var tweenUnfocusJr:FlxTween;
 	var tweenFocusJr:FlxTween;
-	var tweenUnfocusMonika:FlxTween;
-	var tweenFocusMonika:FlxTween;
+	var tweenUnfocusOpponent:FlxTween;
+	var tweenFocusOpponent:FlxTween;
+	var tweenUnfocusThird:FlxTween;
+	var tweenFocusThird:FlxTween;
 	public var diaMusic:FlxSound;
 
 	//me when i am still a dumbass
@@ -80,6 +89,12 @@ class DialogueBox extends FlxSpriteGroup
 				box.frames = Paths.getSparrowAtlas('dialogue/monikaBox');
 				box.animation.addByPrefix('normalOpen', 'monikaBoxAppear', 24, false);
 				box.animation.addByIndices('normal', 'monikaBoxAppear', [4], "", 24);
+			case '8 bit' | 'flying battery zone' | 'lore keeper':
+				hasDialog = true;
+				box.y += 22;
+				box.frames = Paths.getSparrowAtlas('dialogue/batteryBox');
+				box.animation.addByPrefix('normalOpen', 'batteryBoxAppear', 24, false);
+				box.animation.addByIndices('normal', 'batteryBoxAppear', [6], "", 24);
 			default:
 				hasDialog = true;
 				box.frames = Paths.getSparrowAtlas('dialogue/speech_bubble_talking');
@@ -92,7 +107,18 @@ class DialogueBox extends FlxSpriteGroup
 		if (!hasDialog)
 			return;
 
-		cwafJr = new FlxSprite(528.7, 100.4);
+		third = new FlxSprite(377, 71);
+		third.frames = Paths.getSparrowAtlas('dialogue/portraitsThird');
+		third.animation.addByPrefix('cool', 'coolcardSwag');
+		third.animation.addByPrefix('coolRom', 'coolcardRomance');
+		third.animation.addByPrefix('cringers', 'cringersCheer');
+		third.animation.play('cool');
+		third.updateHitbox();
+		third.alpha = 0;
+		add(third);
+		third.visible = false;
+
+		cwafJr = new FlxSprite(750, 100.4);
 		cwafJr.frames = Paths.getSparrowAtlas('dialogue/jrPortraits');
 		cwafJr.animation.addByPrefix('fuck', 'jrFUCK');
 		cwafJr.animation.addByPrefix('happy', 'jrHappy');
@@ -108,6 +134,9 @@ class DialogueBox extends FlxSpriteGroup
 		cwafJr.animation.addByPrefix('confusedTalk', 'jrConfusedTalk');
 		cwafJr.animation.addByPrefix('introduce', 'jrIntroduce');
 		cwafJr.animation.addByPrefix('shocked', 'jrShocked');
+		cwafJr.animation.addByPrefix('boast', 'jrBoastful0');
+		cwafJr.animation.addByPrefix('boastTalk', 'jrBoastfulTalk');
+		cwafJr.animation.addByPrefix('sympathetic', 'jrSympathetic');
 		cwafJr.animation.play('default');
 		cwafJr.updateHitbox();
 		cwafJr.scrollFactor.set();
@@ -134,12 +163,36 @@ class DialogueBox extends FlxSpriteGroup
 		monika.animation.addByPrefix('woe', 'monikaWoe');
 		monika.animation.addByPrefix('shock', 'monikaShock');
 		monika.animation.addByPrefix('point2', 'monikaPointTwo');
-
 		monika.animation.play('default');
 		monika.updateHitbox();
+		monika.alpha = 0;
 		monika.scrollFactor.set();
 		add(monika);
 		monika.visible = false;
+
+		battery = new FlxSprite(50, 90);
+		battery.frames = Paths.getSparrowAtlas('dialogue/batteryPortraits');
+		battery.animation.addByPrefix('fuck', 'batteryFUCK');
+		battery.animation.addByPrefix('default', 'batteryDefault');
+		battery.animation.addByPrefix('confused', 'batteryConfused0');
+		battery.animation.addByPrefix('confusedTalk', 'batteryConfusedTalking');
+		battery.animation.addByPrefix('nervous', 'batterySympathetic0');
+		battery.animation.addByPrefix('nervousTalk', 'batterySympatheticTalk');
+		battery.animation.addByPrefix('blush', 'batteryBlush0');
+		battery.animation.addByPrefix('blushTalk', 'batteryBlushTalk');
+		battery.animation.addByPrefix('look', 'batteryLook0');
+		battery.animation.addByPrefix('lookTalk', 'batteryLookTalk');
+		battery.animation.addByPrefix('annoyed', 'batteryAnnoyed0');
+		battery.animation.addByPrefix('annoyedTalk', 'batteryAnnoyedTalk');
+		battery.animation.addByPrefix('angry', 'batteryAngry');
+		battery.animation.addByPrefix('reallyAngry', 'batteryReallyAngry');
+		battery.animation.addByPrefix('tired', 'batteryTired');
+		battery.animation.play('default');
+		battery.updateHitbox();
+		battery.scale.set(0.85, 0.85);
+		add(battery);
+		battery.alpha = 0;
+		battery.visible = false;
 		
 		box.animation.play('normalOpen');
 		box.updateHitbox();
@@ -199,21 +252,20 @@ class DialogueBox extends FlxSpriteGroup
 					switch (PlayState.SONG.song.toLowerCase())
 					{
 						case 'test':
-							diaMusic = new FlxSound().loadEmbedded(Paths.music('MopeMope'));
+							diaMusic = new FlxSound().loadEmbedded(Paths.music('MopeMope'), true, true);
 						default:
-							diaMusic = new FlxSound().loadEmbedded(Paths.music('MopeMope'));
+							diaMusic = new FlxSound().loadEmbedded(Paths.music('MopeMope'), true, true);
 					}
 
 						diaMusic.play();
-						diaMusic.volume = 0.8;
-						diaMusic.looped = true;
+						FlxG.sound.list.add(diaMusic);
 				}
 				
 			startDialogue();
 			dialogueStarted = true;
 		}
 
-		if (PlayerSettings.player1.controls.ACCEPT && dialogueStarted == true && !inAutotext)
+		if (PlayerSettings.player1.controls.ACCEPT && dialogueStarted == true && !inAutotext && canContinue)
 		{
 			nextText();
 		}
@@ -223,24 +275,25 @@ class DialogueBox extends FlxSpriteGroup
 
 	function nextText()
 		{			
-			if (!daMute)
-				diaMusic.volume = 0.8;
 
-			handSelect.scale.set(1.1, 1.1);
-			FlxTween.tween(handSelect.scale, {x:1, y:1}, .1);
+			if (!inCard)
+				{
+					handSelect.scale.set(1.1, 1.1);
+					FlxTween.tween(handSelect.scale, {x:1, y:1}, .1);
+					
+				}
+			FlxG.sound.play(Paths.sound('clickText'), 0.8);
 
 			remove(dialogue);
 				
-			FlxG.sound.play(Paths.sound('clickText'), 0.8);
 
 			if (dialogueList[1] == null && dialogueList[0] != null)
 			{
 				if (!isEnding)
 				{
 					isEnding = true;
-
-					if (PlayState.SONG.song.toLowerCase() == 'senpai' || PlayState.SONG.song.toLowerCase() == 'thorns' || PlayState.SONG.song.toLowerCase() == 'test')
-						diaMusic.fadeOut(2,0);
+					
+					diaMusic.fadeOut(2,0);
 
 					new FlxTimer().start(0.1, function(tmr:FlxTimer)
 					{
@@ -248,14 +301,45 @@ class DialogueBox extends FlxSpriteGroup
 						bgFade.alpha -= .05 * 0.7;
 						cwafJr.alpha -= .05;
 						monika.alpha -= .05;
+						battery.alpha -= .05;
+						third.alpha -= .05;
 						swagDialogue.alpha -= .05;
 						dropText.alpha = swagDialogue.alpha;
 					}, 20);
 
 					new FlxTimer().start(2, function(tmr:FlxTimer)
 					{
-						finishThing();
-						kill();
+						if (!inCard)
+							{
+								diaMusic.kill();
+
+								finishThing();
+								kill();
+							}
+						else
+							{
+								box.kill();
+								bgFade.kill();
+								cwafJr.kill();
+								monika.kill();
+								battery.kill();
+								third.kill();
+								swagDialogue.kill();
+								dropText.kill();
+								handSelect.kill();
+								new FlxTimer().start(0.1, function(tmr:FlxTimer)
+									{
+										card.alpha -= 0.05;
+									}, 20);
+								new FlxTimer().start(2, function(tmr:FlxTimer)
+									{
+										diaMusic.kill();
+
+										finishThing();
+										kill();
+									}, 20);
+							}
+
 					});
 				}
 			}
@@ -316,22 +400,28 @@ class DialogueBox extends FlxSpriteGroup
 						cwafJr.animation.play('awkwardTalk');
 					case 'sweat':
 						cwafJr.animation.play('sweat');
-					case 'sweatIntroduce':
-						cwafJr.animation.play('sweat');
-						FlxTween.tween(cwafJr, {x: 558.7}, .1);
-						FlxTween.tween(cwafJr, {alpha: 1}, .1);
 					case 'confusedTalk':
 						cwafJr.animation.play('confusedTalk');
 					case 'introduce':
 						cwafJr.animation.play('introduce');
 					case 'shocked':
 						cwafJr.animation.play('shocked');
+					case 'boast':
+						cwafJr.animation.play('boast');
+					case 'boastTalk':
+						cwafJr.animation.play('boastTalk');
+					case 'sympathetic':
+						cwafJr.animation.play('sympathetic');
 					case 'visible':
 						skipDialogue = true;
 						cwafJr.visible = true;
 					case 'nonvisible':
 						skipDialogue = true;
 						cwafJr.visible = false;
+					case 'intoScene':
+						skipDialogue = true;
+						FlxTween.tween(cwafJr, {x: 720}, .1);
+						FlxTween.tween(cwafJr, {alpha: 1}, .1);
 					case 'unfocus':
 						if (tweenFocusJr != null)
 							tweenFocusJr.cancel();
@@ -357,10 +447,6 @@ class DialogueBox extends FlxSpriteGroup
 						monika.animation.play('default');
 					case 'happy':
 						monika.animation.play('happy');
-					case 'happyIntroduce':
-						monika.animation.play('happy');
-						FlxTween.tween(monika, {x: 116.7}, .1);
-						FlxTween.tween(monika, {alpha: 1}, .1);
 					case 'fuck':
 						monika.animation.play('fuck');
 					case 'sad':
@@ -397,25 +483,141 @@ class DialogueBox extends FlxSpriteGroup
 						monika.animation.play('shock');
 					case 'point2':
 						monika.animation.play('point2');
+					case 'intoScene':
+						skipDialogue = true;
+						FlxTween.tween(monika, {x: 116.7}, .1);
+						FlxTween.tween(monika, {alpha: 1}, .1);
 					case 'unfocus':
-						if (tweenFocusMonika != null)
-							tweenFocusMonika.cancel();
+						if (tweenFocusOpponent != null)
+							tweenFocusOpponent.cancel();
 						skipDialogue = true;
 
-						tweenUnfocusMonika = FlxTween.tween(monika.scale, {x: 0.75, y: 0.75}, .1);
-						tweenUnfocusMonika = FlxTween.color(monika, 0.1, monika.color, FlxColor.fromString("0xFF4A4B58"));
-						tweenUnfocusMonika = FlxTween.tween(monika, {y: monika.y + 30}, .1);
+						tweenUnfocusOpponent = FlxTween.tween(monika.scale, {x: 0.75, y: 0.75}, .1);
+						tweenUnfocusOpponent = FlxTween.color(monika, 0.1, monika.color, FlxColor.fromString("0xFF4A4B58"));
+						tweenUnfocusOpponent = FlxTween.tween(monika, {y: monika.y + 30}, .1);
 					case 'focus':
-						if (tweenUnfocusMonika != null)
-							tweenUnfocusMonika.cancel();
+						if (tweenUnfocusOpponent != null)
+							tweenUnfocusOpponent.cancel();
 						skipDialogue = true;
 
-						tweenFocusMonika = FlxTween.tween(monika.scale, {x: 1, y: 1}, .1);
+						tweenFocusOpponent = FlxTween.tween(monika.scale, {x: 1, y: 1}, .1);
 						monika.color = 0x00FFFFFF;
-						tweenFocusMonika = FlxTween.tween(monika, {y: monika.y - 30}, .1);
+						tweenFocusOpponent = FlxTween.tween(monika, {y: monika.y - 30}, .1);
 					default:
 						monika.animation.play('default');
 				}
+			case 'battery':
+				battery.visible = true;
+				switch (curAnim)
+					{
+						case 'default':
+							battery.animation.play('default');
+						case 'confused':
+							battery.animation.play('confused');
+						case 'confusedTalk':
+							battery.animation.play('confusedTalk');
+						case 'nervous':
+							battery.animation.play('nervous');
+						case 'nervousTalk':
+							battery.animation.play('nervousTalk');
+						case 'blush':
+							battery.animation.play('blush');
+						case 'blushTalk':
+							battery.animation.play('blushTalk');
+						case 'look':
+							battery.animation.play('look');
+						case 'lookTalk':
+							battery.animation.play('lookTalk');
+						case 'annoyed':
+							battery.animation.play('annoyed');
+						case 'annoyedTalk':
+							battery.animation.play('annoyedTalk');
+						case 'angry':
+							battery.animation.play('angry');
+						case 'reallyAngry':
+							battery.animation.play('reallyAngry');
+						case 'tired':
+							battery.animation.play('tired');
+						case 'visible':
+							skipDialogue = true;
+							battery.visible = true;
+						case 'nonvisible':
+							skipDialogue = true;
+							battery.visible = false;
+						case 'intoScene':
+							skipDialogue = true;
+							FlxTween.tween(battery, {x: 20}, .1);
+							FlxTween.tween(battery, {alpha: 1}, .1);
+						case 'unfocus':
+							if (tweenFocusOpponent != null)
+								tweenFocusOpponent.cancel();
+							skipDialogue = true;
+
+							tweenUnfocusOpponent = FlxTween.tween(battery.scale, {x: 0.6, y: 0.6}, .1);
+							tweenUnfocusOpponent = FlxTween.color(battery, 0.1, battery.color, FlxColor.fromString("0xFF4A4B58"));
+							tweenUnfocusOpponent = FlxTween.tween(battery, {y: battery.y + 50}, .1);
+						case 'focus':
+							if (tweenUnfocusOpponent != null)
+								tweenUnfocusOpponent.cancel();
+							skipDialogue = true;
+
+							tweenFocusOpponent = FlxTween.tween(battery.scale, {x: 0.85, y: 0.85}, .1);
+							battery.color = 0x00FFFFFF;
+							tweenFocusOpponent = FlxTween.tween(battery, {y: battery.y - 50}, .1);
+						default:
+							battery.animation.play('default');
+					}
+				case 'third':
+					third.visible = true;
+					switch (curAnim)
+						{
+							case 'cool':
+								third.animation.play('cool');
+							case 'coolRom':
+								third.animation.play('coolRom');
+							case 'cringers':
+								third.animation.play('cringers');
+							case 'visible':
+								skipDialogue = true;
+								third.visible = true;
+							case 'nonvisible':
+								skipDialogue = true;
+								third.visible = false;
+							case 'reset':
+								skipDialogue = true;
+								third.y = 71;
+								third.alpha = 0;
+							case 'intoScene':
+								skipDialogue = true;
+								FlxTween.tween(third, {y: third.y - 50}, .1);
+								FlxTween.tween(third, {alpha: 1}, .1);
+							case 'outScene':
+								skipDialogue = true;
+								FlxTween.tween(third, {y: third.y + 50}, .1);
+								FlxTween.tween(third, {alpha: 0}, .1);
+							case 'unfocus':
+								third.alpha = 1;
+								if (tweenFocusOpponent != null)
+									tweenFocusOpponent.cancel();
+								skipDialogue = true;
+	
+								tweenUnfocusOpponent = FlxTween.tween(third.scale, {x: 0.85, y: 0.85}, .1);
+								tweenUnfocusOpponent = FlxTween.color(third, 0.1, third.color, FlxColor.fromString("0xFF4A4B58"));
+								tweenUnfocusOpponent = FlxTween.tween(third, {y: third.y + 30}, .1);
+								//for some reason the last tween in this list isnt working!! idk why!! have a nothing tween!!!
+								tweenUnfocusOpponent = FlxTween.tween(third, {x: third.x}, .1);
+							case 'focus':
+								third.alpha = 1;
+								if (tweenUnfocusOpponent != null)
+									tweenUnfocusOpponent.cancel();
+								skipDialogue = true;
+	
+								tweenFocusOpponent = FlxTween.tween(third.scale, {x: 1, y: 1}, .1);
+								third.color = 0x00FFFFFF;
+								tweenFocusOpponent = FlxTween.tween(third, {y: third.y - 50}, .1);
+							default:
+								third.animation.play('cool');
+						}
 
 			case 'text':
 				skipDialogue = true;
@@ -445,6 +647,14 @@ class DialogueBox extends FlxSpriteGroup
 						diaMusic.volume = 0.8;
 						daMute = false;
 
+				}
+			case 'card':
+				switch (curAnim)
+				{
+					case 'batteryWarn':
+						triggerWarn(curAnim);
+					default:
+						skipDialogue = true;
 				}
 			default:
 				//just so i can put spaces in between the lines of dialogue
@@ -479,4 +689,51 @@ class DialogueBox extends FlxSpriteGroup
 
 		dialogueList[0] = dialogueList[0].substr(splitName[1].length + splitName[2].length + 3).trim();
 	}
+
+	function triggerWarn(curCard:String):Void
+		{
+			canContinue = false;
+			inCard = true;
+
+			card = new FlxSprite().loadGraphic(Paths.image('dialogue/cards/' + curCard));
+			card.screenCenter();
+			
+
+			var continueTxt:FlxText = new FlxText(700, 645, FlxG.width, 'Press any button to continue', 36);
+			continueTxt.alpha = 0;
+			continueTxt.setFormat(Paths.font("CookieRun Bold.ttf"), 36, FlxColor.fromRGB(178, 255, 255), LEFT);
+			
+
+			
+			var black:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
+			black.screenCenter();
+			black.alpha = 1;
+			add(card);
+			add(continueTxt);
+			add(black);
+
+			new FlxTimer().start(1, function(tmr:FlxTimer)
+				{
+					new FlxTimer().start(0.01, function(tmr:FlxTimer)
+						{
+							black.alpha -= 0.02;
+				
+							if (black.alpha > 0)
+							{
+								tmr.reset(0.01);
+							}
+							else
+							{
+								remove(black);
+		
+								new FlxTimer().start(1, function(tmr:FlxTimer)
+									{
+										canContinue = true;
+										FlxTween.tween(continueTxt, {alpha:1}, 2);
+									});
+							}
+						});
+				});
+
+		}
 }

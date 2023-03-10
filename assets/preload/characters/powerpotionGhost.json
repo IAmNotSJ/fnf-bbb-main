@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				172,
 				7
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "powerPotionLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "powerPotionLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				11,
 				-41
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "powerPotionDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "powerPotionDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-67,
 				20
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "powerPotionRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "powerPotionRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "powerPotionIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "powerPotionIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				40,
 				91
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "powerPotionUp",
-			"indices": []
+			"indices": [],
+			"name": "powerPotionUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				50,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "powerPotionMiss",
-			"indices": []
+			"indices": [],
+			"name": "powerPotionMiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				50,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "powerPotionMiss",
-			"indices": []
+			"indices": [],
+			"name": "powerPotionMiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				50,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "powerPotionMiss",
-			"indices": []
+			"indices": [],
+			"name": "powerPotionMiss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				50,
 				0
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "powerPotionMiss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "powerPotionMiss"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "fadeIn",
-			"loop": false,
-			"name": "powerPotionFadeIn"
+			"fps": 24,
+			"name": "powerPotionFadeIn",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -126,7 +126,7 @@
 	],
 	"camera_position": [
 		-20,
-		-75
+		5
 	],
 	"sing_duration": 4,
 	"scale": 1

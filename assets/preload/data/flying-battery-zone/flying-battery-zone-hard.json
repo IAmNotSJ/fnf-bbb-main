@@ -4944,6 +4944,7 @@
 		"needsVoices": false,
 		"sections": 0,
 		"stage": "tower",
+		"discordIcon": "battery",
 		"validScore": true,
 		"bpm": 150,
 		"speed": 2.7

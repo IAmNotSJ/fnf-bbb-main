@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "ckIdle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "ckIdle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ckLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-132
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ckDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ckRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				292
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ckUp0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ckLeftMiss"
+		},
+		{
+			"offsets": [
+				16,
+				-152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ckDownMiss"
+		},
+		{
+			"offsets": [
+				-88,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ckRightMiss"
+		},
+		{
+			"offsets": [
+				-48,
+				271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ckUpMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cereal_killer_run",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cereal",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		148,
+		42
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

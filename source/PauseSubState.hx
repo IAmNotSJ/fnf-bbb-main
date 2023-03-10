@@ -118,7 +118,11 @@ class PauseSubState extends MusicBeatSubstate
 					case '8 Bit' | 'Flying Battery Zone':
 						title.loadGraphic(Paths.image('pause/titles/title jr'));
 						portrait.loadGraphic(Paths.image('pause/portraits/jr'));
-						text.text = 'CWAF Jr. has his mic and is ready to put on a performance! In order to get rid of the barrier that is protecting the staff of creation, he must sing! He seems a bit too excited, though..';
+						text.text = 'CWAF Jr. has his mic and is ready to put on a performance! In order to get rid of the barrier that is protecting the staff of creation, he must sing! He seems a bit excited, though..';
+					case 'Lore Keeper':
+						title.loadGraphic(Paths.image('pause/titles/title jr'));
+						portrait.loadGraphic(Paths.image('pause/portraits/jr'));
+						text.text = "Seems like CWAF Jr. has gotten a bit too excited and boastful and angered Battery. What's weird, the storm above him seems to be particularly focused on him...";
 				}
 			case 2:
 				switch (PlayState.SONG.song)
@@ -140,7 +144,13 @@ class PauseSubState extends MusicBeatSubstate
 						text.size = 30;
 						text.y -= 15;
 						text.text = 'After leading a long expedition to find the staff of creation with his boyfriend, Cool Card, Battery has finally gotten to his final destination! But whats this? One of his explorers, CWAF Jr, wants a rap battle!';
-				}
+					case 'Lore Keeper':
+						title.loadGraphic(Paths.image('pause/titles/title battery'));
+						portrait.loadGraphic(Paths.image('pause/portraits/batteryAngry'));
+						text.size = 28;
+						text.y -= 15;
+						text.text = "Although normally unusually weak, Battery seems to have some power over the incoming storm caused by the barrier to the staff breaking. Whatever could be causing this sudden burst of power? Perhaps the faint glow in the tower has something to do with it.";
+					}
 			case 3:
 				switch (PlayState.SONG.song)
 				{
@@ -154,7 +164,18 @@ class PauseSubState extends MusicBeatSubstate
 						portrait.loadGraphic(Paths.image('pause/portraits/mini'));
 						text.y -= 30;
 						text.text = 'So, imagine if you took 9 mentally unsound\nindividuals and put them all together in a\nshow. This is an object show by Cleft Key,\nwith each character representing a different\nmember of the real BBB server!';
-				}
+					case '8 Bit' | 'Flying Battery Zone':
+						title.loadGraphic(Paths.image('pause/titles/title cool'));
+						portrait.loadGraphic(Paths.image('pause/portraits/cool'));
+						text.y -= 15;
+						text.size = 28;
+						text.text = "Along with his boyfriend, Cool Card leads the way for the adventuring group to find the staff of creation! More calm headed than his hot headed travel partner, he gets along better with the contestants, but that doesn't mean he doesn't get into trouble himself!";
+					case 'Lore Keeper':
+						title.loadGraphic(Paths.image('pause/titles/title cool'));
+						portrait.loadGraphic(Paths.image('pause/portraits/cool'));
+						text.y -= 30;
+						text.text = "Cool Card is usually there to keep Battery in check, but something about him seems a bit off. Ever since they got to the tower, Battery has acted a bit more hot headed than usual, what could possibly be the cause?";	
+					}
 		}
 
 
@@ -162,14 +183,14 @@ class PauseSubState extends MusicBeatSubstate
 		var levelInfo:FlxText = new FlxText(20, 15, 0, "", 32);
 		levelInfo.text += PlayState.SONG.song;
 		levelInfo.scrollFactor.set();
-		levelInfo.setFormat(Paths.font("CookieRun Bold.ttf"), 32);
+		levelInfo.setFormat(Paths.font("CookieRun Bold.ttf"), 32, FlxColor.fromRGB(8, 0, 131));
 		levelInfo.updateHitbox();
 		add(levelInfo);
 
 		var levelDifficulty:FlxText = new FlxText(20, 15 + 32, 0, "", 32);
 		levelDifficulty.text += CoolUtil.difficultyString();
 		levelDifficulty.scrollFactor.set();
-		levelDifficulty.setFormat(Paths.font("CookieRun Bold.ttf"), 32);
+		levelDifficulty.setFormat(Paths.font("CookieRun Bold.ttf"), 32, FlxColor.fromRGB(8, 0, 131));
 		levelDifficulty.updateHitbox();
 		add(levelDifficulty);
 

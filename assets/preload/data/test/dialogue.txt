@@ -1,13 +1,15 @@
 :sound:voice:jrHappy
 :text:Speed:0.1
-:jr:sweatIntroduce:
+:jr:intoScene:
+:jr:sweat: 
 :jr:confusedTalk:uh...
 :jr:unfocus:
 
 :text:Speed:0.04
 :sound:voice:monikaHappy
 :monika:focus:
-:monika:happyIntroduce:Well hey there!
+:monika:intoScene:
+:monika:happy:Well hey there!
 :monika:jazz:Sorry for scaring you like that, I just HAD to meet you!
 :monika:introduce:My name's Monika! And what's yours?
 :monika:unfocus:
@@ -43,7 +45,7 @@
 :monika:focus:
 :monika:happy:Of course! What good adventurer doesn't?
 :monika:quote:"The staff that can create anything", doesn't it sound great?!
-:monika:point2:And I think you've good chance at finding it!
+:monika:point2:And I think you've got a good chance at finding it!
 :monika:unfocus:
 
 :sound:voice:jrHappy

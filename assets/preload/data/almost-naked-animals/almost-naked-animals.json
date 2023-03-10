@@ -1,8 +1,20 @@
 {
 	"song": {
 		"player1": "cleft",
-		"events": [],
-		"gfVersion": "bf",
+		"discordIcon": "cleft",
+		"events": [
+			[
+				61676.4705882352,
+				[
+					[
+						"Change Character",
+						"BF",
+						"cleft-happy"
+					]
+				]
+			]
+		],
+		"gfVersion": "powerpotionGhost",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -551,11 +563,6 @@
 			{
 				"sectionNotes": [
 					[
-						20000,
-						2,
-						441.176470588235
-					],
-					[
 						20588.2352941176,
 						0,
 						0
@@ -574,6 +581,11 @@
 						21058.8235294118,
 						3,
 						0
+					],
+					[
+						20000,
+						2,
+						441.176470588235
 					]
 				],
 				"lengthInSteps": 16,
@@ -1408,11 +1420,6 @@
 			{
 				"sectionNotes": [
 					[
-						49529.4117647058,
-						2,
-						88.2352941176471
-					],
-					[
 						49882.3529411764,
 						1,
 						0
@@ -1423,23 +1430,28 @@
 						0
 					],
 					[
-						50235.294117647,
-						3,
-						0
-					],
-					[
 						50411.7647058823,
 						2,
 						0
 					],
 					[
-						50529.4117647058,
-						1,
+						50705.8823529411,
+						0,
 						0
 					],
 					[
-						50705.8823529411,
-						0,
+						49470.5882352941,
+						2,
+						88.2352941176471
+					],
+					[
+						50235.294117647,
+						3,
+						0
+					],
+					[
+						50588.2352941176,
+						1,
 						0
 					]
 				],
@@ -1455,16 +1467,6 @@
 						264.705882352941
 					],
 					[
-						51588.2352941176,
-						2,
-						0
-					],
-					[
-						51764.7058823529,
-						0,
-						0
-					],
-					[
 						52000,
 						1,
 						0
@@ -1472,6 +1474,16 @@
 					[
 						52176.4705882353,
 						2,
+						0
+					],
+					[
+						51588.2352941176,
+						2,
+						0
+					],
+					[
+						51764.7058823529,
+						0,
 						0
 					]
 				],
@@ -2179,6 +2191,11 @@
 						176.470588235294
 					],
 					[
+						76058.8235294117,
+						1,
+						0
+					],
+					[
 						75705.8823529411,
 						2,
 						0
@@ -2189,13 +2206,8 @@
 						0
 					],
 					[
-						75941.1764705881,
+						75882.3529411764,
 						2,
-						0
-					],
-					[
-						76058.8235294117,
-						1,
 						0
 					]
 				],
@@ -2876,6 +2888,86 @@
 				"bpm": 170
 			},
 			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 170
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 170
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 170,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 170
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 170
+			},
+			{
 				"gfSection": false,
 				"altAnim": false,
 				"typeOfSection": 0,
@@ -2886,11 +2978,11 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "monika",
+		"player2": "monika-mini",
 		"player3": null,
 		"song": "Almost Naked Animals",
 		"stage": "mini",
-		"needsVoices": true,
+		"needsVoices": false,
 		"validScore": true,
 		"bpm": 170,
 		"speed": 2.6

@@ -1,0 +1,16 @@
+{
+	"songs": [
+		["Almost Naked Animals", "cleft", [255, 13, 134]]
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "WARIO WAFT",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode":true,
+	"hideFreeplay": false,
+	"bonusSong": true
+}

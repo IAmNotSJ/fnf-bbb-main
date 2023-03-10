@@ -92,6 +92,28 @@ class DiscordClient
 		//trace('Discord RPC Updated. Arguments: $details, $state, $smallImageKey, $hasStartTimestamp, $endTimestamp');
 	}
 
+	public static function changePresenceLarge(details:String, state:Null<String>, largeImageKey : String, ?hasStartTimestamp : Bool, ?endTimestamp: Float)
+		{
+			var startTimestamp:Float = if(hasStartTimestamp) Date.now().getTime() else 0;
+	
+			if (endTimestamp > 0)
+			{
+				endTimestamp = startTimestamp + endTimestamp;
+			}
+	
+			DiscordRpc.presence({
+				details: details,
+				state: state,
+				largeImageKey: largeImageKey,
+				largeImageText: "Engine Version: " + MainMenuState.psychEngineVersion,
+				// Obtained times are in milliseconds so they are divided so Discord can use it
+				startTimestamp : Std.int(startTimestamp / 1000),
+				endTimestamp : Std.int(endTimestamp / 1000)
+			});
+	
+			//trace('Discord RPC Updated. Arguments: $details, $state, $smallImageKey, $hasStartTimestamp, $endTimestamp');
+		}
+
 	#if LUA_ALLOWED
 	public static function addLuaCallbacks(lua:State) {
 		Lua_helper.add_callback(lua, "changePresence", function(details:String, state:Null<String>, ?smallImageKey:String, ?hasStartTimestamp:Bool, ?endTimestamp:Float) {

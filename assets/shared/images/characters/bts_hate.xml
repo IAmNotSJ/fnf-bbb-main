@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bts_hate.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="btsDown0000" x="0" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0001" x="0" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0002" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0003" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0004" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0005" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0006" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0007" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0008" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0009" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsDown0010" x="652" y="0" width="649" height="494"/>
+	<SubTexture name="btsIdle0000" x="1304" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0001" x="1304" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0002" x="2083" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0003" x="2083" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0004" x="2083" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0005" x="2862" y="0" width="776" height="492"/>
+	<SubTexture name="btsIdle0006" x="0" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0007" x="779" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0008" x="1558" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0009" x="2337" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0010" x="3116" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0011" x="3116" y="497" width="776" height="492"/>
+	<SubTexture name="btsIdle0012" x="0" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0013" x="0" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0014" x="779" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0015" x="1558" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0016" x="2337" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0017" x="3116" y="992" width="776" height="492"/>
+	<SubTexture name="btsIdle0018" x="0" y="1487" width="776" height="492"/>
+	<SubTexture name="btsIdle0019" x="779" y="1487" width="776" height="492"/>
+	<SubTexture name="btsLeft0000" x="1558" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0001" x="1558" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0002" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0003" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0004" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0005" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0006" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsLeft0007" x="2283" y="1487" width="722" height="462"/>
+	<SubTexture name="btsRight0000" x="3008" y="1487" width="762" height="463"/>
+	<SubTexture name="btsRight0001" x="3008" y="1487" width="762" height="463"/>
+	<SubTexture name="btsRight0002" x="0" y="1982" width="762" height="463"/>
+	<SubTexture name="btsRight0003" x="0" y="1982" width="762" height="463"/>
+	<SubTexture name="btsRight0004" x="0" y="1982" width="762" height="463"/>
+	<SubTexture name="btsRight0005" x="0" y="1982" width="762" height="463"/>
+	<SubTexture name="btsRight0006" x="0" y="1982" width="762" height="463"/>
+	<SubTexture name="btsUp0000" x="765" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0001" x="765" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0002" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0003" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0004" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0005" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0006" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0007" x="1329" y="1982" width="561" height="462"/>
+	<SubTexture name="btsUp0008" x="1329" y="1982" width="561" height="462"/>
+</TextureAtlas>

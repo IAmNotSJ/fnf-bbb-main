@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["Asgore", "bts", [255, 13, 134]],
+		["Megalo Strike Back", "bts", [255, 13, 134]],
+		["Reality Check", "bts", [255, 13, 134]]
+	],
+
+	"weekBackground": "stage",
+
+	"storyName": "Generic Undertale Reference",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode":false,
+	"hideFreeplay": false
+}

@@ -223,7 +223,9 @@ class ChartingState extends MusicBeatState
 				gfVersion: 'gf',
 				speed: 1,
 				stage: 'stage',
-				validScore: false
+				validScore: false,
+				discordIcon: 'battery',
+				singleSong: false
 			};
 			addSection();
 			PlayState.SONG = _song;

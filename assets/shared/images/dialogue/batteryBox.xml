@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="batteryBox.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="batteryBoxAppear0000" x="0" y="0" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0001" x="0" y="0" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0002" x="0" y="372" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0003" x="0" y="744" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0004" x="0" y="744" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0005" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0006" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0007" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0008" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0009" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0010" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0011" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0012" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0013" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0014" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0015" x="0" y="1116" width="1244" height="369"/>
+	<SubTexture name="batteryBoxAppear0016" x="0" y="1116" width="1244" height="369"/>
+</TextureAtlas>

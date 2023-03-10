@@ -1,13 +1,14 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
+<<<<<<< HEAD
+=======
 			"indices": [],
 			"name": "ckIdle"
 		},
@@ -17,32 +18,37 @@
 				-36
 			],
 			"loop": false,
+>>>>>>> parent of 2a4534f (vagina)
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "ckUp"
+			"name": "ckIdle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-21,
 				-4
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "ckHey"
+			"fps": 24,
+			"name": "ckHey",
+			"indices": []
 		},
 		{
 			"offsets": [
+<<<<<<< HEAD
+				255,
+				-329
+=======
 				29,
 				-214
+>>>>>>> parent of 2a4534f (vagina)
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "attack",
 			"indices": [],
-			"name": "ckLeft"
+			"name": "ckAttack"
 		},
 		{
 			"offsets": [
@@ -53,7 +59,29 @@
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "ckRight"
+			"name": "ckRight0"
+		},
+		{
+			"offsets": [
+				-33,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ckUp0"
+		},
+		{
+			"offsets": [
+				20,
+				-212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ckLeft0"
 		},
 		{
 			"offsets": [
@@ -64,18 +92,51 @@
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "ckDown"
+			"name": "ckDown0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				255,
-				-329
+				193,
+				-331
 			],
-			"anim": "attack",
+			"loop": false,
 			"fps": 24,
-			"name": "ckAttack",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ckRightMiss"
+		},
+		{
+			"offsets": [
+				-33,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ckUpMiss"
+		},
+		{
+			"offsets": [
+				33,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ckLeftMiss"
+		},
+		{
+			"offsets": [
+				-60,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ckDownMiss"
 		}
 	],
 	"no_antialiasing": false,

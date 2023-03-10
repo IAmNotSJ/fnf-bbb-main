@@ -1,0 +1,24 @@
+:sound:voice:monikaHappy
+:jr:intoScene:
+:jr:look:Wow! The shield really did break! Now we can go inside!
+:jr:unfocus:
+:battery:intoScene:
+:battery:angry:Thats it! One more! 
+:battery:unfocus:
+
+:jr:focus:
+:text:autoSkip:2.36
+:jr:boastTalk:If you'd like, but I don't see why, especially considering-
+:jr:unfocus:
+
+:battery:focus:
+:battery:reallyAngry:Now.
+:battery:unfocus:
+
+:jr:focus:
+:jr:sympathetic:You seem upset..
+:jr:unfocus:
+
+:battery:focus:
+:battery:tired:CWAF Jr do you even have fucking awareness
+:card:batteryWarn:

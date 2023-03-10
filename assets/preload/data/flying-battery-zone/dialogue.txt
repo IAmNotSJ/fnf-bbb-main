@@ -1,0 +1,16 @@
+:sound:voice:monikaHappy
+:text:Speed:0.02
+:battery:intoScene:
+:text:autoSkip:0.94
+:battery:lookTalk:Alright, alright, that was fun- but we better get going to the staff i wonder if it will even say all of this lol!!!!!!!!!!!!!
+
+:battery:unfocus:
+:jr:intoScene:
+:jr:boast:Oh yeah! Monika was right! I'm really good at this!
+:jr:boastTalk:Sorry for beating you so bad, better luck next time?
+
+:jr:unfocus:
+:battery:focus:
+:battery:annoyed:
+:text:Speed:0.5
+:battery:annoyedTalk:On second thought...
